@@ -1,0 +1,4184 @@
+start executing get_department_list
+get_department_list executed in 211.12322807312012 ms
+start executing report
+report executed in 1.3089179992675781 ms
+start executing report
+report executed in 0.5829334259033203 ms
+start executing report
+report executed in 0.6759166717529297 ms
+start executing report
+report executed in 0.5428791046142578 ms
+start executing report
+report executed in 0.5130767822265625 ms
+start executing report
+report executed in 0.49591064453125 ms
+start executing report
+report executed in 0.5350112915039062 ms
+start executing report
+report executed in 0.530242919921875 ms
+start executing report
+report executed in 0.5609989166259766 ms
+start executing report
+report executed in 0.5121231079101562 ms
+start executing report
+report executed in 0.5931854248046875 ms
+start executing report
+report executed in 0.8182525634765625 ms
+start executing report
+report executed in 0.6120204925537109 ms
+start executing report
+report executed in 0.6191730499267578 ms
+start executing report
+report executed in 0.5457401275634766 ms
+start executing report
+report executed in 0.5519390106201172 ms
+start executing report
+report executed in 0.5309581756591797 ms
+start executing report
+report executed in 0.7219314575195312 ms
+start executing report
+report executed in 0.5748271942138672 ms
+start executing report
+report executed in 0.5500316619873047 ms
+start executing report
+report executed in 0.5269050598144531 ms
+start executing report
+report executed in 1.9910335540771484 ms
+start executing report
+report executed in 0.6282329559326172 ms
+start executing report
+report executed in 0.5910396575927734 ms
+start executing report
+report executed in 0.6000995635986328 ms
+start executing report
+report executed in 0.5681514739990234 ms
+start executing report
+report executed in 0.6477832794189453 ms
+start executing report
+report executed in 0.553131103515625 ms
+start executing report
+report executed in 0.5550384521484375 ms
+start executing report
+report executed in 0.6737709045410156 ms
+start executing report
+report executed in 0.6012916564941406 ms
+start executing report
+report executed in 0.6821155548095703 ms
+start executing report
+report executed in 1.1250972747802734 ms
+start executing report
+report executed in 0.6573200225830078 ms
+start executing report
+report executed in 0.6709098815917969 ms
+start executing report
+report executed in 0.8339881896972656 ms
+start executing report
+report executed in 0.7300376892089844 ms
+start executing report
+report executed in 0.5681514739990234 ms
+start executing report
+report executed in 0.598907470703125 ms
+start executing report
+report executed in 0.5688667297363281 ms
+start executing report
+report executed in 0.9360313415527344 ms
+start executing report
+report executed in 0.6899833679199219 ms
+start executing report
+report executed in 0.5788803100585938 ms
+start executing report
+report executed in 0.5688667297363281 ms
+start executing report
+report executed in 0.5848407745361328 ms
+start executing report
+report executed in 0.5741119384765625 ms
+start executing report
+report executed in 0.5576610565185547 ms
+start executing report
+report executed in 0.7519721984863281 ms
+start executing report
+report executed in 0.6067752838134766 ms
+start executing report
+report executed in 0.6127357482910156 ms
+start executing report
+report executed in 0.5617141723632812 ms
+start executing report
+report executed in 0.6301403045654297 ms
+start executing report
+report executed in 0.5576610565185547 ms
+start executing report
+report executed in 0.5507469177246094 ms
+start executing report
+report executed in 0.576019287109375 ms
+start executing report
+report executed in 0.6699562072753906 ms
+start executing report
+report executed in 0.5822181701660156 ms
+start executing report
+report executed in 0.6439685821533203 ms
+start executing report
+report executed in 0.5550384521484375 ms
+start executing report
+report executed in 0.5400180816650391 ms
+start executing report
+report executed in 0.5781650543212891 ms
+start executing report
+report executed in 0.5581378936767578 ms
+start executing report
+report executed in 0.5419254302978516 ms
+start executing report
+report executed in 0.576019287109375 ms
+start executing report
+report executed in 0.5388259887695312 ms
+start executing report
+report executed in 0.5817413330078125 ms
+start executing report
+report executed in 0.5466938018798828 ms
+start executing report
+report executed in 0.5640983581542969 ms
+start executing report
+report executed in 0.5419254302978516 ms
+start executing report
+report executed in 0.560760498046875 ms
+start executing report
+report executed in 0.5440711975097656 ms
+start executing report
+report executed in 1.19781494140625 ms
+start executing report
+report executed in 0.5848407745361328 ms
+start executing report
+report executed in 0.6322860717773438 ms
+start executing report
+report executed in 0.5817413330078125 ms
+start executing report
+report executed in 0.5400180816650391 ms
+start executing report
+report executed in 1.9640922546386719 ms
+start executing report
+report executed in 0.9310245513916016 ms
+start executing report
+report executed in 0.6730556488037109 ms
+start executing report
+report executed in 0.7238388061523438 ms
+start executing report
+report executed in 0.5848407745361328 ms
+start executing report
+report executed in 0.5927085876464844 ms
+start executing report
+report executed in 0.7259845733642578 ms
+start executing report
+report executed in 0.576019287109375 ms
+start executing report
+report executed in 0.6508827209472656 ms
+start executing report
+report executed in 0.5466938018798828 ms
+start executing report
+report executed in 0.6191730499267578 ms
+start executing report
+report executed in 0.6415843963623047 ms
+start executing report
+report executed in 0.6928443908691406 ms
+start executing report
+report executed in 0.6291866302490234 ms
+start executing report
+report executed in 0.6110668182373047 ms
+start executing report
+report executed in 0.5488395690917969 ms
+start executing report
+report executed in 0.6589889526367188 ms
+start executing report
+report executed in 0.5848407745361328 ms
+start executing report
+report executed in 0.5528926849365234 ms
+start executing report
+report executed in 0.5650520324707031 ms
+start executing report
+report executed in 0.5419254302978516 ms
+start executing report
+report executed in 0.6058216094970703 ms
+start executing report
+report executed in 0.5679130554199219 ms
+start executing report
+report executed in 0.6222724914550781 ms
+start executing report
+report executed in 0.67901611328125 ms
+start executing report
+report executed in 0.6461143493652344 ms
+start executing report
+report executed in 0.7159709930419922 ms
+start executing report
+report executed in 0.5517005920410156 ms
+start executing report
+report executed in 0.6620883941650391 ms
+start executing report
+report executed in 0.6041526794433594 ms
+start executing report
+report executed in 0.5791187286376953 ms
+start executing report
+report executed in 0.6039142608642578 ms
+start executing report
+report executed in 1.1680126190185547 ms
+start executing report
+report executed in 0.6709098815917969 ms
+start executing report
+report executed in 0.5843639373779297 ms
+start executing report
+report executed in 0.5710124969482422 ms
+start executing report
+report executed in 0.6959438323974609 ms
+start executing report
+report executed in 0.823974609375 ms
+start executing report
+report executed in 0.7770061492919922 ms
+start executing report
+report executed in 0.6661415100097656 ms
+start executing report
+report executed in 0.5960464477539062 ms
+start executing report
+report executed in 0.5781650543212891 ms
+start executing report
+report executed in 0.5939006805419922 ms
+start executing report
+report executed in 0.5490779876708984 ms
+start executing report
+report executed in 0.6861686706542969 ms
+start executing report
+report executed in 0.5576610565185547 ms
+start executing report
+report executed in 0.7219314575195312 ms
+start executing report
+report executed in 0.5602836608886719 ms
+start executing report
+report executed in 0.55694580078125 ms
+start executing report
+report executed in 0.7050037384033203 ms
+start executing report
+report executed in 0.5502700805664062 ms
+start executing report
+report executed in 0.6158351898193359 ms
+start executing report
+report executed in 0.8130073547363281 ms
+start executing report
+report executed in 0.6151199340820312 ms
+start executing report
+report executed in 0.5469322204589844 ms
+start executing report
+report executed in 0.6420612335205078 ms
+start executing report
+report executed in 0.5350112915039062 ms
+start executing report
+report executed in 0.5357265472412109 ms
+start executing report
+report executed in 0.5471706390380859 ms
+start executing report
+report executed in 0.5440711975097656 ms
+start executing report
+report executed in 0.6368160247802734 ms
+start executing report
+report executed in 0.6258487701416016 ms
+start executing report
+report executed in 0.5619525909423828 ms
+start executing report
+report executed in 2.6209354400634766 ms
+start executing report
+report executed in 0.7669925689697266 ms
+start executing report
+report executed in 0.5590915679931641 ms
+start executing report
+report executed in 0.57220458984375 ms
+start executing report
+report executed in 0.5590915679931641 ms
+start executing report
+report executed in 0.5850791931152344 ms
+start executing report
+report executed in 0.5340576171875 ms
+start executing report
+report executed in 0.7498264312744141 ms
+start executing report
+report executed in 0.7729530334472656 ms
+start executing report
+report executed in 0.6191730499267578 ms
+start executing report
+report executed in 0.5660057067871094 ms
+start executing report
+report executed in 0.6170272827148438 ms
+start executing report
+report executed in 0.5900859832763672 ms
+start executing report
+report executed in 0.5857944488525391 ms
+start executing report
+report executed in 0.5571842193603516 ms
+start executing report
+report executed in 0.6079673767089844 ms
+start executing report
+report executed in 0.57220458984375 ms
+start executing report
+report executed in 0.5807876586914062 ms
+start executing report
+report executed in 0.5576610565185547 ms
+start executing report
+report executed in 0.5719661712646484 ms
+start executing report
+report executed in 0.5500316619873047 ms
+start executing report
+report executed in 0.5638599395751953 ms
+start executing report
+report executed in 0.7529258728027344 ms
+start executing report
+report executed in 0.6170272827148438 ms
+start executing report
+report executed in 0.6730556488037109 ms
+start executing report
+report executed in 0.6389617919921875 ms
+start executing report
+report executed in 0.5698204040527344 ms
+start executing report
+report executed in 0.5609989166259766 ms
+start executing report
+report executed in 0.5409717559814453 ms
+start executing report
+report executed in 0.5800724029541016 ms
+start executing report
+report executed in 0.6630420684814453 ms
+start executing report
+report executed in 0.579833984375 ms
+start executing report
+report executed in 0.7007122039794922 ms
+start executing report
+report executed in 1.2009143829345703 ms
+start executing report
+report executed in 0.5991458892822266 ms
+start executing report
+report executed in 0.5829334259033203 ms
+start executing report
+report executed in 0.5910396575927734 ms
+start executing report
+report executed in 0.5538463592529297 ms
+start executing report
+report executed in 0.5960464477539062 ms
+start executing report
+report executed in 0.6501674652099609 ms
+start executing report
+report executed in 2.4039745330810547 ms
+start executing report
+report executed in 0.6620883941650391 ms
+start executing report
+report executed in 0.5671977996826172 ms
+start executing report
+report executed in 0.7071495056152344 ms
+start executing report
+report executed in 0.6577968597412109 ms
+start executing report
+report executed in 0.57220458984375 ms
+start executing report
+report executed in 0.5748271942138672 ms
+start executing report
+report executed in 0.5712509155273438 ms
+start executing report
+report executed in 0.6840229034423828 ms
+start executing report
+report executed in 0.5910396575927734 ms
+start executing report
+report executed in 0.5438327789306641 ms
+start executing report
+report executed in 0.5648136138916016 ms
+start executing report
+report executed in 0.5619525909423828 ms
+start executing report
+report executed in 0.6029605865478516 ms
+start executing report
+report executed in 0.5292892456054688 ms
+start executing report
+report executed in 0.5538463592529297 ms
+start executing report
+report executed in 0.5350112915039062 ms
+start executing report
+report executed in 0.5588531494140625 ms
+start executing report
+report executed in 0.5328655242919922 ms
+start executing report
+report executed in 0.5629062652587891 ms
+start executing report
+report executed in 0.6008148193359375 ms
+start executing report
+report executed in 0.5402565002441406 ms
+start executing report
+report executed in 0.5228519439697266 ms
+start executing report
+report executed in 0.5719661712646484 ms
+start executing report
+report executed in 0.6690025329589844 ms
+start executing report
+report executed in 0.5488395690917969 ms
+start executing report
+report executed in 0.5519390106201172 ms
+start executing report
+report executed in 0.5791187286376953 ms
+start executing report
+report executed in 0.5769729614257812 ms
+start executing report
+report executed in 0.6349086761474609 ms
+start executing report
+report executed in 24.435997009277344 ms
+start executing report
+report executed in 1.1110305786132812 ms
+start executing report
+report executed in 0.6310939788818359 ms
+start executing report
+report executed in 0.5600452423095703 ms
+start executing report
+report executed in 0.5571842193603516 ms
+start executing report
+report executed in 0.5488395690917969 ms
+start executing report
+report executed in 0.5500316619873047 ms
+start executing report
+report executed in 0.5922317504882812 ms
+start executing report
+report executed in 0.7100105285644531 ms
+start executing report
+report executed in 0.8029937744140625 ms
+start executing report
+report executed in 0.7131099700927734 ms
+start executing report
+report executed in 0.7250308990478516 ms
+start executing report
+report executed in 0.5650520324707031 ms
+start executing report
+report executed in 0.6139278411865234 ms
+start executing report
+report executed in 0.5619525909423828 ms
+start executing report
+report executed in 0.8761882781982422 ms
+start executing report
+report executed in 0.5748271942138672 ms
+start executing report
+report executed in 0.576019287109375 ms
+start executing report
+report executed in 0.5729198455810547 ms
+start executing report
+report executed in 0.6000995635986328 ms
+start executing report
+report executed in 0.6010532379150391 ms
+start executing report
+report executed in 0.5550384521484375 ms
+start executing report
+report executed in 0.5459785461425781 ms
+start executing report
+report executed in 0.6351470947265625 ms
+start executing report
+report executed in 0.5669593811035156 ms
+start executing report
+report executed in 0.5919933319091797 ms
+start executing report
+report executed in 0.5998611450195312 ms
+start executing report
+report executed in 0.7340908050537109 ms
+start executing report
+report executed in 0.5939006805419922 ms
+start executing report
+report executed in 0.5669593811035156 ms
+start executing report
+report executed in 0.5719661712646484 ms
+start executing report
+report executed in 0.5581378936767578 ms
+start executing report
+report executed in 0.5640983581542969 ms
+start executing report
+report executed in 0.6208419799804688 ms
+start executing report
+report executed in 0.5559921264648438 ms
+start executing report
+report executed in 0.6659030914306641 ms
+start executing report
+report executed in 0.6022453308105469 ms
+start executing report
+report executed in 0.6890296936035156 ms
+start executing report
+report executed in 0.598907470703125 ms
+start executing report
+report executed in 1.4369487762451172 ms
+start executing report
+report executed in 0.6308555603027344 ms
+start executing report
+report executed in 0.5588531494140625 ms
+start executing report
+report executed in 0.5741119384765625 ms
+start executing report
+report executed in 0.5729198455810547 ms
+start executing report
+report executed in 0.6151199340820312 ms
+start executing report
+report executed in 0.7150173187255859 ms
+start executing report
+report executed in 0.7269382476806641 ms
+start executing report
+report executed in 0.8671283721923828 ms
+start executing report
+report executed in 0.6210803985595703 ms
+start executing report
+report executed in 4.190921783447266 ms
+start executing report
+report executed in 0.5998611450195312 ms
+start executing report
+report executed in 0.5571842193603516 ms
+start executing report
+report executed in 0.5500316619873047 ms
+start executing report
+report executed in 0.54931640625 ms
+start executing report
+report executed in 0.5397796630859375 ms
+start executing report
+report executed in 0.5578994750976562 ms
+start executing report
+report executed in 0.5400180816650391 ms
+start executing report
+report executed in 0.5240440368652344 ms
+start executing report
+report executed in 0.6561279296875 ms
+start executing report
+report executed in 0.5738735198974609 ms
+start executing report
+report executed in 0.6673336029052734 ms
+start executing report
+report executed in 0.5488395690917969 ms
+start executing report
+report executed in 0.598907470703125 ms
+start executing report
+report executed in 0.5571842193603516 ms
+start executing report
+report executed in 0.5409717559814453 ms
+start executing report
+report executed in 0.5328655242919922 ms
+start executing report
+report executed in 0.5381107330322266 ms
+start executing report
+report executed in 0.5476474761962891 ms
+start executing report
+report executed in 0.5359649658203125 ms
+start executing report
+report executed in 0.5650520324707031 ms
+start executing report
+report executed in 0.6661415100097656 ms
+start executing report
+report executed in 0.61798095703125 ms
+start executing report
+report executed in 0.5509853363037109 ms
+start executing report
+report executed in 0.5619525909423828 ms
+start executing report
+report executed in 1.1017322540283203 ms
+start executing report
+report executed in 0.6709098815917969 ms
+start executing report
+report executed in 0.8149147033691406 ms
+start executing report
+report executed in 0.5478858947753906 ms
+start executing report
+report executed in 0.5550384521484375 ms
+start executing report
+report executed in 0.6301403045654297 ms
+start executing report
+report executed in 0.6189346313476562 ms
+start executing report
+report executed in 0.7607936859130859 ms
+start executing report
+report executed in 0.6921291351318359 ms
+start executing report
+report executed in 0.6899833679199219 ms
+start executing report
+report executed in 0.6749629974365234 ms
+start executing report
+report executed in 0.5958080291748047 ms
+start executing report
+report executed in 0.576019287109375 ms
+start executing report
+report executed in 0.5986690521240234 ms
+start executing report
+report executed in 0.5371570587158203 ms
+start executing report
+report executed in 0.5481243133544922 ms
+start executing report
+report executed in 0.6537437438964844 ms
+start executing report
+report executed in 0.5917549133300781 ms
+start executing report
+report executed in 0.5540847778320312 ms
+start executing report
+report executed in 0.7319450378417969 ms
+start executing report
+report executed in 0.5660057067871094 ms
+start executing report
+report executed in 0.5509853363037109 ms
+start executing report
+report executed in 0.6530284881591797 ms
+start executing report
+report executed in 0.5331039428710938 ms
+start executing report
+report executed in 0.5419254302978516 ms
+start executing report
+report executed in 0.5660057067871094 ms
+start executing report
+report executed in 0.6222724914550781 ms
+start executing report
+report executed in 0.5350112915039062 ms
+start executing report
+report executed in 0.5309581756591797 ms
+start executing report
+report executed in 0.5331039428710938 ms
+start executing report
+report executed in 0.9427070617675781 ms
+start executing report
+report executed in 0.5218982696533203 ms
+start executing report
+report executed in 0.5280971527099609 ms
+start executing report
+report executed in 0.6227493286132812 ms
+start executing report
+report executed in 0.5507469177246094 ms
+start executing report
+report executed in 0.5400180816650391 ms
+start executing report
+report executed in 18.971920013427734 ms
+start executing report
+report executed in 0.6420612335205078 ms
+start executing report
+report executed in 0.6630420684814453 ms
+start executing report
+report executed in 0.5321502685546875 ms
+start executing report
+report executed in 0.5629062652587891 ms
+start executing report
+report executed in 0.5278587341308594 ms
+start executing report
+report executed in 0.5397796630859375 ms
+start executing report
+report executed in 0.885009765625 ms
+start executing report
+report executed in 0.6129741668701172 ms
+start executing report
+report executed in 0.6489753723144531 ms
+start executing report
+report executed in 0.743865966796875 ms
+start executing report
+report executed in 0.7610321044921875 ms
+start executing report
+report executed in 0.5919933319091797 ms
+start executing report
+report executed in 0.5500316619873047 ms
+start executing report
+report executed in 0.579833984375 ms
+start executing report
+report executed in 0.5900859832763672 ms
+start executing report
+report executed in 0.5831718444824219 ms
+start executing report
+report executed in 0.782012939453125 ms
+start executing report
+report executed in 0.5810260772705078 ms
+start executing report
+report executed in 0.6182193756103516 ms
+start executing report
+report executed in 0.6010532379150391 ms
+start executing report
+report executed in 0.6542205810546875 ms
+start executing report
+report executed in 0.9191036224365234 ms
+start executing report
+report executed in 0.5812644958496094 ms
+start executing report
+report executed in 0.5598068237304688 ms
+start executing report
+report executed in 0.5681514739990234 ms
+start executing report
+report executed in 0.6110668182373047 ms
+start executing report
+report executed in 0.5578994750976562 ms
+start executing report
+report executed in 0.5400180816650391 ms
+start executing report
+report executed in 0.5919933319091797 ms
+start executing report
+report executed in 0.598907470703125 ms
+start executing report
+report executed in 0.5826950073242188 ms
+start executing report
+report executed in 0.6868839263916016 ms
+start executing report
+report executed in 0.5800724029541016 ms
+start executing report
+report executed in 0.553131103515625 ms
+start executing report
+report executed in 0.54931640625 ms
+start executing report
+report executed in 0.6511211395263672 ms
+start executing report
+report executed in 0.6210803985595703 ms
+start executing report
+report executed in 0.5850791931152344 ms
+start executing report
+report executed in 1.1219978332519531 ms
+start executing report
+report executed in 0.6840229034423828 ms
+start executing report
+report executed in 0.5829334259033203 ms
+start executing report
+report executed in 0.5917549133300781 ms
+start executing report
+report executed in 0.5629062652587891 ms
+start executing report
+report executed in 0.5667209625244141 ms
+start executing report
+report executed in 0.5772113800048828 ms
+start executing report
+report executed in 0.6258487701416016 ms
+start executing report
+report executed in 0.6220340728759766 ms
+start executing report
+report executed in 0.7231235504150391 ms
+start executing report
+report executed in 0.5660057067871094 ms
+start executing report
+report executed in 0.5588531494140625 ms
+start executing report
+report executed in 0.5431175231933594 ms
+start executing report
+report executed in 0.5466938018798828 ms
+start executing report
+report executed in 0.5960464477539062 ms
+start executing report
+report executed in 0.7319450378417969 ms
+start executing report
+report executed in 0.7040500640869141 ms
+start executing report
+report executed in 0.6670951843261719 ms
+start executing report
+report executed in 0.5700588226318359 ms
+start executing report
+report executed in 0.8230209350585938 ms
+start executing report
+report executed in 0.6327629089355469 ms
+start executing report
+report executed in 0.6940364837646484 ms
+start executing report
+report executed in 0.5910396575927734 ms
+start executing report
+report executed in 0.5388259887695312 ms
+start executing report
+report executed in 0.5879402160644531 ms
+start executing report
+report executed in 0.5540847778320312 ms
+start executing report
+report executed in 0.55694580078125 ms
+start executing report
+report executed in 0.5471706390380859 ms
+start executing report
+report executed in 0.5958080291748047 ms
+start executing report
+report executed in 0.5450248718261719 ms
+start executing report
+report executed in 0.5559921264648438 ms
+start executing report
+report executed in 0.6620883941650391 ms
+start executing report
+report executed in 0.6098747253417969 ms
+start executing report
+report executed in 0.5509853363037109 ms
+start executing report
+report executed in 0.5869865417480469 ms
+start executing report
+report executed in 0.6160736083984375 ms
+start executing report
+report executed in 0.6382465362548828 ms
+start executing report
+report executed in 0.6291866302490234 ms
+start executing report
+report executed in 0.5588531494140625 ms
+start executing report
+report executed in 0.5419254302978516 ms
+start executing report
+report executed in 0.8757114410400391 ms
+start executing report
+report executed in 0.5519390106201172 ms
+start executing report
+report executed in 0.5660057067871094 ms
+start executing report
+report executed in 0.7510185241699219 ms
+start executing report
+report executed in 0.8871555328369141 ms
+start executing report
+report executed in 0.5879402160644531 ms
+start executing report
+report executed in 0.5848407745361328 ms
+start executing report
+report executed in 0.5638599395751953 ms
+start executing report
+report executed in 0.5741119384765625 ms
+start executing report
+report executed in 0.6330013275146484 ms
+start executing report
+report executed in 0.61798095703125 ms
+start executing report
+report executed in 0.5648136138916016 ms
+start executing report
+report executed in 0.5779266357421875 ms
+start executing report
+report executed in 0.5192756652832031 ms
+start executing report
+report executed in 0.5249977111816406 ms
+start executing report
+report executed in 0.5228519439697266 ms
+start executing report
+report executed in 0.5402565002441406 ms
+start executing report
+report executed in 0.6031990051269531 ms
+start executing report
+report executed in 0.5309581756591797 ms
+start executing report
+report executed in 0.518798828125 ms
+start executing report
+report executed in 0.5409717559814453 ms
+start executing report
+report executed in 0.5171298980712891 ms
+start executing report
+report executed in 0.5502700805664062 ms
+start executing report
+report executed in 0.5390644073486328 ms
+start executing report
+report executed in 0.6630420684814453 ms
+start executing report
+report executed in 0.5829334259033203 ms
+start executing report
+report executed in 0.5450248718261719 ms
+start executing report
+report executed in 0.5550384521484375 ms
+start executing report
+report executed in 0.5540847778320312 ms
+start executing report
+report executed in 0.5311965942382812 ms
+start executing report
+report executed in 0.6399154663085938 ms
+start executing report
+report executed in 0.5860328674316406 ms
+start executing report
+report executed in 0.5543231964111328 ms
+start executing report
+report executed in 0.6780624389648438 ms
+start executing report
+report executed in 2.064228057861328 ms
+start executing report
+report executed in 0.6170272827148438 ms
+start executing report
+report executed in 0.9169578552246094 ms
+start executing report
+report executed in 1.0938644409179688 ms
+start executing report
+report executed in 0.6668567657470703 ms
+start executing report
+report executed in 0.5660057067871094 ms
+start executing report
+report executed in 0.5412101745605469 ms
+start executing report
+report executed in 0.6082057952880859 ms
+start executing report
+report executed in 0.7479190826416016 ms
+start executing report
+report executed in 0.7548332214355469 ms
+start executing report
+report executed in 0.5629062652587891 ms
+start executing report
+report executed in 0.5469322204589844 ms
+start executing report
+report executed in 0.6129741668701172 ms
+start executing report
+report executed in 0.5509853363037109 ms
+start executing report
+report executed in 0.6008148193359375 ms
+start executing report
+report executed in 0.5559921264648438 ms
+start executing report
+report executed in 0.61798095703125 ms
+start executing report
+report executed in 0.7798671722412109 ms
+start executing report
+report executed in 0.5428791046142578 ms
+start executing report
+report executed in 0.5970001220703125 ms
+start executing report
+report executed in 0.6520748138427734 ms
+start executing report
+report executed in 0.5323886871337891 ms
+start executing report
+report executed in 0.5297660827636719 ms
+start executing report
+report executed in 0.614166259765625 ms
+start executing report
+report executed in 0.6582736968994141 ms
+start executing report
+report executed in 0.6451606750488281 ms
+start executing report
+report executed in 0.67901611328125 ms
+start executing report
+report executed in 0.5769729614257812 ms
+start executing report
+report executed in 0.5540847778320312 ms
+start executing report
+report executed in 0.5490779876708984 ms
+start executing report
+report executed in 0.5412101745605469 ms
+start executing report
+report executed in 0.5719661712646484 ms
+start executing report
+report executed in 0.5638599395751953 ms
+start executing report
+report executed in 0.5581378936767578 ms
+start executing report
+report executed in 0.5710124969482422 ms
+start executing report
+report executed in 0.6268024444580078 ms
+start executing report
+report executed in 0.6058216094970703 ms
+start executing report
+report executed in 0.5419254302978516 ms
+start executing report
+report executed in 0.5271434783935547 ms
+start executing report
+report executed in 0.5390644073486328 ms
+start executing report
+report executed in 0.9050369262695312 ms
+start executing report
+report executed in 0.5640983581542969 ms
+start executing report
+report executed in 0.8533000946044922 ms
+start executing report
+report executed in 0.5838871002197266 ms
+start executing report
+report executed in 0.5669593811035156 ms
+start executing report
+report executed in 1.3532638549804688 ms
+start executing report
+report executed in 0.9522438049316406 ms
+start executing report
+report executed in 0.6368160247802734 ms
+start executing report
+report executed in 0.5409717559814453 ms
+start executing report
+report executed in 0.5421638488769531 ms
+start executing report
+report executed in 0.5850791931152344 ms
+start executing report
+report executed in 0.6368160247802734 ms
+start executing report
+report executed in 0.6191730499267578 ms
+start executing report
+report executed in 0.5409717559814453 ms
+start executing report
+report executed in 0.5962848663330078 ms
+start executing report
+report executed in 0.5550384521484375 ms
+start executing report
+report executed in 0.5741119384765625 ms
+start executing report
+report executed in 0.5500316619873047 ms
+start executing report
+report executed in 0.6568431854248047 ms
+start executing report
+report executed in 0.6070137023925781 ms
+start executing report
+report executed in 0.6108283996582031 ms
+start executing report
+report executed in 0.5738735198974609 ms
+start executing report
+report executed in 0.5681514739990234 ms
+start executing report
+report executed in 0.5481243133544922 ms
+start executing report
+report executed in 0.5872249603271484 ms
+start executing report
+report executed in 0.5609989166259766 ms
+start executing report
+report executed in 0.5578994750976562 ms
+start executing report
+report executed in 0.5710124969482422 ms
+start executing report
+report executed in 0.6730556488037109 ms
+start executing report
+report executed in 0.5562305450439453 ms
+start executing report
+report executed in 0.5679130554199219 ms
+start executing report
+report executed in 0.5717277526855469 ms
+start executing report
+report executed in 0.5691051483154297 ms
+start executing report
+report executed in 0.5440711975097656 ms
+start executing report
+report executed in 0.5409717559814453 ms
+start executing report
+report executed in 0.5450248718261719 ms
+start executing report
+report executed in 0.5528926849365234 ms
+start executing report
+report executed in 0.6420612335205078 ms
+start executing report
+report executed in 0.7798671722412109 ms
+start executing report
+report executed in 0.5939006805419922 ms
+start executing report
+report executed in 0.8540153503417969 ms
+start executing report
+report executed in 0.6380081176757812 ms
+start executing report
+report executed in 0.61798095703125 ms
+start executing report
+report executed in 0.6949901580810547 ms
+start executing report
+report executed in 0.6461143493652344 ms
+start executing report
+report executed in 0.7352828979492188 ms
+start executing report
+report executed in 0.6821155548095703 ms
+start executing report
+report executed in 0.7169246673583984 ms
+start executing report
+report executed in 0.6949901580810547 ms
+start executing report
+report executed in 0.7410049438476562 ms
+start executing report
+report executed in 0.5900859832763672 ms
+start executing report
+report executed in 0.5960464477539062 ms
+start executing report
+report executed in 0.6449222564697266 ms
+start executing report
+report executed in 0.5776882171630859 ms
+start executing report
+report executed in 0.5979537963867188 ms
+start executing report
+report executed in 0.5533695220947266 ms
+start executing report
+report executed in 0.5409717559814453 ms
+start executing report
+report executed in 0.5362033843994141 ms
+start executing report
+report executed in 0.5643367767333984 ms
+start executing report
+report executed in 0.9140968322753906 ms
+start executing report
+report executed in 0.5939006805419922 ms
+start executing report
+report executed in 0.5609989166259766 ms
+start executing report
+report executed in 0.5650520324707031 ms
+start executing report
+report executed in 0.6117820739746094 ms
+start executing report
+report executed in 0.5297660827636719 ms
+start executing report
+report executed in 0.5381107330322266 ms
+start executing report
+report executed in 0.6890296936035156 ms
+start executing report
+report executed in 0.5629062652587891 ms
+start executing report
+report executed in 0.5428791046142578 ms
+start executing report
+report executed in 0.5779266357421875 ms
+start executing report
+report executed in 0.6232261657714844 ms
+start executing report
+report executed in 0.5879402160644531 ms
+start executing report
+report executed in 0.5240440368652344 ms
+start executing report
+report executed in 0.518798828125 ms
+start executing report
+report executed in 0.5271434783935547 ms
+start executing report
+report executed in 0.5359649658203125 ms
+start executing report
+report executed in 0.644683837890625 ms
+start executing report
+report executed in 0.6079673767089844 ms
+start executing report
+report executed in 0.60272216796875 ms
+start executing report
+report executed in 0.6237030029296875 ms
+start executing report
+report executed in 0.8571147918701172 ms
+start executing report
+report executed in 0.5879402160644531 ms
+start executing report
+report executed in 0.5750656127929688 ms
+start executing report
+report executed in 0.5600452423095703 ms
+start executing report
+report executed in 0.5338191986083984 ms
+start executing report
+report executed in 0.5397796630859375 ms
+start executing report
+report executed in 0.5221366882324219 ms
+start executing report
+report executed in 0.5478858947753906 ms
+start executing report
+report executed in 0.6308555603027344 ms
+start executing report
+report executed in 0.6411075592041016 ms
+start executing report
+report executed in 0.7801055908203125 ms
+start executing report
+report executed in 0.6852149963378906 ms
+start executing report
+report executed in 0.5271434783935547 ms
+start executing report
+report executed in 0.8101463317871094 ms
+start executing report
+report executed in 2.328157424926758 ms
+start executing report
+report executed in 0.743865966796875 ms
+start executing report
+report executed in 0.7150173187255859 ms
+start executing report
+report executed in 0.5788803100585938 ms
+start executing report
+report executed in 0.5922317504882812 ms
+start executing report
+report executed in 0.5650520324707031 ms
+start executing report
+report executed in 0.5619525909423828 ms
+start executing report
+report executed in 0.6489753723144531 ms
+start executing report
+report executed in 0.5278587341308594 ms
+start executing report
+report executed in 0.5807876586914062 ms
+start executing report
+report executed in 0.5419254302978516 ms
+start executing report
+report executed in 0.5409717559814453 ms
+start executing report
+report executed in 0.5269050598144531 ms
+start executing report
+report executed in 0.5428791046142578 ms
+start executing report
+report executed in 0.5290508270263672 ms
+start executing report
+report executed in 0.5609989166259766 ms
+start executing report
+report executed in 0.5838871002197266 ms
+start executing report
+report executed in 0.6017684936523438 ms
+start executing report
+report executed in 0.5419254302978516 ms
+start executing report
+report executed in 0.5249977111816406 ms
+start executing report
+report executed in 0.6299018859863281 ms
+start executing report
+report executed in 0.5719661712646484 ms
+start executing report
+report executed in 0.5459785461425781 ms
+start executing report
+report executed in 0.5822181701660156 ms
+start executing report
+report executed in 1.081228256225586 ms
+start executing report
+report executed in 0.8630752563476562 ms
+start executing report
+report executed in 0.6036758422851562 ms
+start executing report
+report executed in 0.560760498046875 ms
+start executing report
+report executed in 0.7140636444091797 ms
+start executing report
+report executed in 0.6477832794189453 ms
+start executing report
+report executed in 0.6189346313476562 ms
+start executing report
+report executed in 0.6279945373535156 ms
+start executing report
+report executed in 0.579833984375 ms
+start executing report
+report executed in 0.5578994750976562 ms
+start executing report
+report executed in 0.6690025329589844 ms
+start executing report
+report executed in 0.5619525909423828 ms
+start executing report
+report executed in 0.5710124969482422 ms
+start executing report
+report executed in 0.5640983581542969 ms
+start executing report
+report executed in 0.6639957427978516 ms
+start executing report
+report executed in 0.6608963012695312 ms
+start executing report
+report executed in 0.6358623504638672 ms
+start executing report
+report executed in 0.5729198455810547 ms
+start executing report
+report executed in 0.5540847778320312 ms
+start executing report
+report executed in 0.5617141723632812 ms
+start executing report
+report executed in 0.5338191986083984 ms
+start executing report
+report executed in 0.5748271942138672 ms
+start executing report
+report executed in 0.5712509155273438 ms
+start executing report
+report executed in 0.5567073822021484 ms
+start executing report
+report executed in 0.5340576171875 ms
+start executing report
+report executed in 0.5707740783691406 ms
+start executing report
+report executed in 0.5578994750976562 ms
+start executing report
+report executed in 0.6251335144042969 ms
+start executing report
+report executed in 0.6279945373535156 ms
+start executing report
+report executed in 0.5869865417480469 ms
+start executing report
+report executed in 0.5469322204589844 ms
+start executing report
+report executed in 0.5371570587158203 ms
+start executing report
+report executed in 0.6778240203857422 ms
+start executing report
+report executed in 0.5550384521484375 ms
+start executing report
+report executed in 0.5419254302978516 ms
+start executing report
+report executed in 0.6561279296875 ms
+start executing report
+report executed in 0.6620883941650391 ms
+start executing report
+report executed in 0.5450248718261719 ms
+start executing report
+report executed in 0.5393028259277344 ms
+start executing report
+report executed in 0.5660057067871094 ms
+start executing report
+report executed in 0.7469654083251953 ms
+start executing report
+report executed in 0.5741119384765625 ms
+start executing report
+report executed in 0.5731582641601562 ms
+start executing report
+report executed in 0.5750656127929688 ms
+start executing report
+report executed in 0.5581378936767578 ms
+start executing report
+report executed in 0.5240440368652344 ms
+start executing report
+report executed in 0.5679130554199219 ms
+start executing report
+report executed in 0.5440711975097656 ms
+start executing report
+report executed in 0.6988048553466797 ms
+start executing report
+report executed in 0.7319450378417969 ms
+start executing report
+report executed in 0.6480216979980469 ms
+start executing report
+report executed in 0.5679130554199219 ms
+start executing report
+report executed in 0.5409717559814453 ms
+start executing report
+report executed in 0.5421638488769531 ms
+start executing report
+report executed in 0.5350112915039062 ms
+start executing report
+report executed in 0.5590915679931641 ms
+start executing report
+report executed in 0.5741119384765625 ms
+start executing report
+report executed in 0.7410049438476562 ms
+start executing report
+report executed in 0.6539821624755859 ms
+start executing report
+report executed in 0.5860328674316406 ms
+start executing report
+report executed in 0.6361007690429688 ms
+start executing report
+report executed in 0.7028579711914062 ms
+start executing report
+report executed in 0.5710124969482422 ms
+start executing report
+report executed in 0.5691051483154297 ms
+start executing report
+report executed in 0.6210803985595703 ms
+start executing report
+report executed in 0.5621910095214844 ms
+start executing report
+report executed in 0.5800724029541016 ms
+start executing report
+report executed in 0.6270408630371094 ms
+start executing report
+report executed in 0.5629062652587891 ms
+start executing report
+report executed in 0.5941390991210938 ms
+start executing report
+report executed in 0.6048679351806641 ms
+start executing report
+report executed in 0.5848407745361328 ms
+start executing report
+report executed in 0.5769729614257812 ms
+start executing report
+report executed in 0.5831718444824219 ms
+start executing report
+report executed in 0.6401538848876953 ms
+start executing report
+report executed in 0.6170272827148438 ms
+start executing report
+report executed in 0.5567073822021484 ms
+start executing report
+report executed in 0.6158351898193359 ms
+start executing report
+report executed in 0.675201416015625 ms
+start executing report
+report executed in 0.5559921264648438 ms
+start executing report
+report executed in 0.5860328674316406 ms
+start executing report
+report executed in 0.9770393371582031 ms
+start executing report
+report executed in 0.6577968597412109 ms
+start executing report
+report executed in 0.5810260772705078 ms
+start executing report
+report executed in 0.6830692291259766 ms
+start executing report
+report executed in 0.5891323089599609 ms
+start executing report
+report executed in 0.6568431854248047 ms
+start executing report
+report executed in 0.6258487701416016 ms
+start executing report
+report executed in 0.7359981536865234 ms
+start executing report
+report executed in 0.9431838989257812 ms
+start executing report
+report executed in 0.6880760192871094 ms
+start executing report
+report executed in 1.3191699981689453 ms
+start executing report
+report executed in 1.8000602722167969 ms
+start executing report
+report executed in 0.6902217864990234 ms
+start executing report
+report executed in 0.5750656127929688 ms
+start executing report
+report executed in 0.5638599395751953 ms
+start executing report
+report executed in 0.5707740783691406 ms
+start executing report
+report executed in 0.60272216796875 ms
+start executing report
+report executed in 0.5981922149658203 ms
+start executing report
+report executed in 0.7307529449462891 ms
+start executing report
+report executed in 0.560760498046875 ms
+start executing report
+report executed in 0.5478858947753906 ms
+start executing report
+report executed in 0.5900859832763672 ms
+start executing report
+report executed in 0.5328655242919922 ms
+start executing report
+report executed in 0.5550384521484375 ms
+start executing report
+report executed in 0.5807876586914062 ms
+start executing report
+report executed in 0.5860328674316406 ms
+start executing report
+report executed in 0.5619525909423828 ms
+start executing report
+report executed in 0.5660057067871094 ms
+start executing report
+report executed in 0.6210803985595703 ms
+start executing report
+report executed in 0.6160736083984375 ms
+start executing report
+report executed in 0.5741119384765625 ms
+start executing report
+report executed in 0.5350112915039062 ms
+start executing report
+report executed in 0.5750656127929688 ms
+start executing report
+report executed in 0.6041526794433594 ms
+start executing report
+report executed in 0.530242919921875 ms
+start executing report
+report executed in 0.5841255187988281 ms
+start executing report
+report executed in 0.6551742553710938 ms
+start executing report
+report executed in 0.9739398956298828 ms
+start executing report
+report executed in 0.9210109710693359 ms
+start executing report
+report executed in 0.6949901580810547 ms
+start executing report
+report executed in 0.6072521209716797 ms
+start executing report
+report executed in 0.5600452423095703 ms
+start executing report
+report executed in 0.5459785461425781 ms
+start executing report
+report executed in 0.8478164672851562 ms
+start executing report
+report executed in 0.7450580596923828 ms
+start executing report
+report executed in 0.5807876586914062 ms
+start executing report
+report executed in 0.6339550018310547 ms
+start executing report
+report executed in 0.5738735198974609 ms
+start executing report
+report executed in 0.5550384521484375 ms
+start executing report
+report executed in 0.5521774291992188 ms
+start executing report
+report executed in 0.5650520324707031 ms
+start executing report
+report executed in 0.5638599395751953 ms
+start executing report
+report executed in 0.5629062652587891 ms
+start executing report
+report executed in 0.5691051483154297 ms
+start executing report
+report executed in 0.5817413330078125 ms
+start executing report
+report executed in 0.598907470703125 ms
+start executing report
+report executed in 0.5621910095214844 ms
+start executing report
+report executed in 0.5650520324707031 ms
+start executing report
+report executed in 0.6411075592041016 ms
+start executing report
+report executed in 0.5621910095214844 ms
+start executing report
+report executed in 0.7040500640869141 ms
+start executing report
+report executed in 0.5660057067871094 ms
+start executing report
+report executed in 0.5700588226318359 ms
+start executing report
+report executed in 0.5519390106201172 ms
+start executing report
+report executed in 0.5557537078857422 ms
+start executing report
+report executed in 0.5390644073486328 ms
+start executing report
+report executed in 0.5590915679931641 ms
+start executing report
+report executed in 0.5271434783935547 ms
+start executing report
+report executed in 0.5278587341308594 ms
+start executing report
+report executed in 0.5550384521484375 ms
+start executing report
+report executed in 0.5450248718261719 ms
+start executing report
+report executed in 0.5590915679931641 ms
+start executing report
+report executed in 0.6451606750488281 ms
+start executing report
+report executed in 0.5660057067871094 ms
+start executing report
+report executed in 0.5488395690917969 ms
+start executing report
+report executed in 0.5428791046142578 ms
+start executing report
+report executed in 8.297920227050781 ms
+start executing report
+report executed in 0.9949207305908203 ms
+start executing report
+report executed in 1.1360645294189453 ms
+start executing report
+report executed in 0.8771419525146484 ms
+start executing report
+report executed in 1.0769367218017578 ms
+start executing report
+report executed in 1.1229515075683594 ms
+start executing report
+report executed in 1.500844955444336 ms
+start executing report
+report executed in 0.8151531219482422 ms
+start executing report
+report executed in 0.6310939788818359 ms
+start executing report
+report executed in 0.5767345428466797 ms
+start executing report
+report executed in 0.9191036224365234 ms
+start executing report
+report executed in 0.6740093231201172 ms
+start executing report
+report executed in 0.9479522705078125 ms
+start executing report
+report executed in 1.0249614715576172 ms
+start executing report
+report executed in 0.7569789886474609 ms
+start executing report
+report executed in 0.7512569427490234 ms
+start executing report
+report executed in 0.8630752563476562 ms
+start executing report
+report executed in 1.0170936584472656 ms
+start executing report
+report executed in 0.6129741668701172 ms
+start executing report
+report executed in 1.3840198516845703 ms
+start executing report
+report executed in 0.6420612335205078 ms
+start executing report
+report executed in 1.6338825225830078 ms
+start executing report
+report executed in 1.374959945678711 ms
+start executing report
+report executed in 1.2009143829345703 ms
+start executing report
+report executed in 1.2099742889404297 ms
+start executing report
+report executed in 1.168966293334961 ms
+start executing report
+report executed in 0.5879402160644531 ms
+start executing report
+report executed in 0.7638931274414062 ms
+start executing report
+report executed in 0.5991458892822266 ms
+start executing report
+report executed in 0.5970001220703125 ms
+start executing report
+report executed in 0.5600452423095703 ms
+start executing report
+report executed in 0.5500316619873047 ms
+start executing report
+report executed in 0.6492137908935547 ms
+start executing report
+report executed in 1.3120174407958984 ms
+start executing report
+report executed in 2.760171890258789 ms
+start executing report
+report executed in 1.0991096496582031 ms
+start executing report
+report executed in 0.6628036499023438 ms
+start executing report
+report executed in 1.260995864868164 ms
+start executing report
+report executed in 0.7328987121582031 ms
+start executing report
+report executed in 0.5698204040527344 ms
+start executing report
+report executed in 1.1608600616455078 ms
+start executing report
+report executed in 0.6120204925537109 ms
+start executing report
+report executed in 0.8709430694580078 ms
+start executing report
+report executed in 2.4046897888183594 ms
+start executing report
+report executed in 1.5680789947509766 ms
+start executing report
+report executed in 0.61798095703125 ms
+start executing report
+report executed in 0.6139278411865234 ms
+start executing report
+report executed in 0.5860328674316406 ms
+start executing report
+report executed in 0.8900165557861328 ms
+start executing report
+report executed in 0.6122589111328125 ms
+start executing report
+report executed in 0.7648468017578125 ms
+start executing report
+report executed in 1.2891292572021484 ms
+start executing report
+report executed in 0.6091594696044922 ms
+start executing report
+report executed in 0.7870197296142578 ms
+start executing report
+report executed in 0.5981922149658203 ms
+start executing report
+report executed in 0.5791187286376953 ms
+start executing report
+report executed in 0.5600452423095703 ms
+start executing report
+report executed in 0.5676746368408203 ms
+start executing report
+report executed in 0.5478858947753906 ms
+start executing report
+report executed in 0.5621910095214844 ms
+start executing report
+report executed in 0.5638599395751953 ms
+start executing report
+report executed in 0.5581378936767578 ms
+start executing report
+report executed in 0.5822181701660156 ms
+start executing report
+report executed in 0.5269050598144531 ms
+start executing report
+report executed in 1.4858245849609375 ms
+start executing report
+report executed in 1.199960708618164 ms
+start executing report
+report executed in 0.9961128234863281 ms
+start executing report
+report executed in 0.5910396575927734 ms
+start executing report
+report executed in 0.5369186401367188 ms
+start executing report
+report executed in 0.7767677307128906 ms
+start executing report
+report executed in 1.0769367218017578 ms
+start executing report
+report executed in 0.5738735198974609 ms
+start executing report
+report executed in 0.5559921264648438 ms
+start executing report
+report executed in 1.3802051544189453 ms
+start executing report
+report executed in 1.1570453643798828 ms
+start executing report
+report executed in 0.6148815155029297 ms
+start executing report
+report executed in 0.5609989166259766 ms
+start executing report
+report executed in 0.5419254302978516 ms
+start executing report
+report executed in 0.5891323089599609 ms
+start executing report
+report executed in 0.7100105285644531 ms
+start executing report
+report executed in 0.6101131439208984 ms
+start executing report
+report executed in 0.5872249603271484 ms
+start executing report
+report executed in 0.7128715515136719 ms
+start executing report
+report executed in 0.6017684936523438 ms
+start executing report
+report executed in 0.5717277526855469 ms
+start executing report
+report executed in 0.5917549133300781 ms
+start executing report
+report executed in 0.5888938903808594 ms
+start executing report
+report executed in 0.5350112915039062 ms
+start executing report
+report executed in 0.5438327789306641 ms
+start executing report
+report executed in 0.5810260772705078 ms
+start executing report
+report executed in 0.5743503570556641 ms
+start executing report
+report executed in 3.353118896484375 ms
+start executing report
+report executed in 1.0218620300292969 ms
+start executing report
+report executed in 0.6861686706542969 ms
+start executing report
+report executed in 0.5750656127929688 ms
+start executing report
+report executed in 0.5571842193603516 ms
+start executing report
+report executed in 0.5710124969482422 ms
+start executing report
+report executed in 0.5519390106201172 ms
+start executing report
+report executed in 0.5507469177246094 ms
+start executing report
+report executed in 0.5438327789306641 ms
+start executing report
+report executed in 0.7929801940917969 ms
+start executing report
+report executed in 0.6158351898193359 ms
+start executing report
+report executed in 0.762939453125 ms
+start executing report
+report executed in 0.6227493286132812 ms
+start executing report
+report executed in 2.527952194213867 ms
+start executing report
+report executed in 0.9310245513916016 ms
+start executing report
+report executed in 0.5900859832763672 ms
+start executing report
+report executed in 0.5640983581542969 ms
+start executing report
+report executed in 0.5571842193603516 ms
+start executing report
+report executed in 0.5450248718261719 ms
+start executing report
+report executed in 0.6339550018310547 ms
+start executing report
+report executed in 0.6170272827148438 ms
+start executing report
+report executed in 2.038717269897461 ms
+start executing report
+report executed in 0.9710788726806641 ms
+start executing report
+report executed in 0.6070137023925781 ms
+start executing report
+report executed in 0.7600784301757812 ms
+start executing report
+report executed in 0.6749629974365234 ms
+start executing report
+report executed in 0.6070137023925781 ms
+start executing report
+report executed in 0.6160736083984375 ms
+start executing report
+report executed in 0.5769729614257812 ms
+start executing report
+report executed in 0.9009838104248047 ms
+start executing report
+report executed in 0.8151531219482422 ms
+start executing report
+report executed in 2.565145492553711 ms
+start executing report
+report executed in 4.670858383178711 ms
+start executing report
+report executed in 0.7119178771972656 ms
+start executing report
+report executed in 0.6039142608642578 ms
+start executing report
+report executed in 0.7040500640869141 ms
+start executing report
+report executed in 0.6799697875976562 ms
+start executing report
+report executed in 2.3238658905029297 ms
+start executing report
+report executed in 0.6780624389648438 ms
+start executing report
+report executed in 4.768133163452148 ms
+start executing report
+report executed in 1.2400150299072266 ms
+start executing report
+report executed in 1.0738372802734375 ms
+start executing report
+report executed in 0.6239414215087891 ms
+start executing report
+report executed in 0.6778240203857422 ms
+start executing report
+report executed in 0.5688667297363281 ms
+start executing report
+report executed in 0.5507469177246094 ms
+start executing report
+report executed in 0.5981922149658203 ms
+start executing report
+report executed in 0.7541179656982422 ms
+start executing report
+report executed in 3.547191619873047 ms
+start executing report
+report executed in 1.4231204986572266 ms
+start executing report
+report executed in 3.367900848388672 ms
+start executing report
+report executed in 7.594108581542969 ms
+start executing report
+report executed in 3.5080909729003906 ms
+start executing report
+report executed in 2.7031898498535156 ms
+start executing report
+report executed in 0.6887912750244141 ms
+start executing report
+report executed in 0.7429122924804688 ms
+start executing report
+report executed in 0.6358623504638672 ms
+start executing report
+report executed in 0.6589889526367188 ms
+start executing report
+report executed in 1.6009807586669922 ms
+start executing report
+report executed in 1.62506103515625 ms
+start executing report
+report executed in 2.3500919342041016 ms
+start executing report
+report executed in 2.630949020385742 ms
+start executing report
+report executed in 2.8858184814453125 ms
+start executing report
+report executed in 3.9839744567871094 ms
+start executing report
+report executed in 19.377946853637695 ms
+start executing report
+report executed in 0.9469985961914062 ms
+start executing report
+report executed in 0.6940364837646484 ms
+start executing report
+report executed in 0.5991458892822266 ms
+start executing report
+report executed in 0.5829334259033203 ms
+start executing report
+report executed in 0.6062984466552734 ms
+start executing report
+report executed in 0.5521774291992188 ms
+start executing report
+report executed in 0.5471706390380859 ms
+start executing report
+report executed in 0.5288124084472656 ms
+start executing report
+report executed in 0.5619525909423828 ms
+start executing report
+report executed in 0.6401538848876953 ms
+start executing report
+report executed in 0.6320476531982422 ms
+start executing report
+report executed in 0.5791187286376953 ms
+start executing report
+report executed in 0.5481243133544922 ms
+start executing report
+report executed in 0.5640983581542969 ms
+start executing report
+report executed in 0.5509853363037109 ms
+start executing report
+report executed in 0.5979537963867188 ms
+start executing report
+report executed in 0.5400180816650391 ms
+start executing report
+report executed in 0.5829334259033203 ms
+start executing report
+report executed in 0.5650520324707031 ms
+start executing report
+report executed in 9.040117263793945 ms
+start executing report
+report executed in 1.6980171203613281 ms
+start executing report
+report executed in 0.6520748138427734 ms
+start executing report
+report executed in 0.5691051483154297 ms
+start executing report
+report executed in 0.5979537963867188 ms
+start executing report
+report executed in 0.8301734924316406 ms
+start executing report
+report executed in 0.6420612335205078 ms
+start executing report
+report executed in 0.5769729614257812 ms
+start executing report
+report executed in 0.5478858947753906 ms
+start executing report
+report executed in 0.5702972412109375 ms
+start executing report
+report executed in 0.5540847778320312 ms
+start executing report
+report executed in 1.489877700805664 ms
+start executing report
+report executed in 0.5886554718017578 ms
+start executing report
+report executed in 0.5738735198974609 ms
+start executing report
+report executed in 0.5719661712646484 ms
+start executing report
+report executed in 0.5438327789306641 ms
+start executing report
+report executed in 0.5300045013427734 ms
+start executing report
+report executed in 0.5750656127929688 ms
+start executing report
+report executed in 0.5640983581542969 ms
+start executing report
+report executed in 0.6542205810546875 ms
+start executing report
+report executed in 0.6017684936523438 ms
+start executing report
+report executed in 187.5438690185547 ms
+start executing report
+report executed in 1.3079643249511719 ms
+start executing report
+report executed in 0.9331703186035156 ms
+start executing report
+report executed in 1.0821819305419922 ms
+start executing report
+report executed in 0.6859302520751953 ms
+start executing report
+report executed in 0.8652210235595703 ms
+start executing report
+report executed in 1.9068717956542969 ms
+start executing report
+report executed in 0.8788108825683594 ms
+start executing report
+report executed in 0.9250640869140625 ms
+start executing report
+report executed in 1.1892318725585938 ms
+start executing report
+report executed in 1.1539459228515625 ms
+start executing report
+report executed in 1.1260509490966797 ms
+start executing report
+report executed in 1.0149478912353516 ms
+start executing report
+report executed in 0.8449554443359375 ms
+start executing report
+report executed in 0.7669925689697266 ms
+start executing report
+report executed in 0.659942626953125 ms
+start executing report
+report executed in 0.6949901580810547 ms
+start executing report
+report executed in 0.640869140625 ms
+start executing report
+report executed in 0.7476806640625 ms
+start executing report
+report executed in 0.7829666137695312 ms
+start executing report
+report executed in 1.1699199676513672 ms
+start executing report
+report executed in 0.9350776672363281 ms
+start executing report
+report executed in 0.6709098815917969 ms
+start executing report
+report executed in 1.0590553283691406 ms
+start executing report
+report executed in 1.2640953063964844 ms
+start executing report
+report executed in 0.9329319000244141 ms
+start executing report
+report executed in 0.7150173187255859 ms
+start executing report
+report executed in 0.6101131439208984 ms
+start executing report
+report executed in 0.698089599609375 ms
+start executing report
+report executed in 0.78582763671875 ms
+start executing report
+report executed in 1.6911029815673828 ms
+start executing report
+report executed in 3.225088119506836 ms
+start executing report
+report executed in 0.8630752563476562 ms
+start executing report
+report executed in 0.6079673767089844 ms
+start executing report
+report executed in 0.5512237548828125 ms
+start executing report
+report executed in 0.6411075592041016 ms
+start executing report
+report executed in 0.5550384521484375 ms
+start executing report
+report executed in 0.5981922149658203 ms
+start executing report
+report executed in 0.5791187286376953 ms
+start executing report
+report executed in 0.5679130554199219 ms
+start executing report
+report executed in 0.8378028869628906 ms
+start executing report
+report executed in 0.6048679351806641 ms
+start executing report
+report executed in 0.5602836608886719 ms
+start executing report
+report executed in 0.5650520324707031 ms
+start executing report
+report executed in 0.7219314575195312 ms
+start executing report
+report executed in 0.5671977996826172 ms
+start executing report
+report executed in 0.6062984466552734 ms
+start executing report
+report executed in 0.5450248718261719 ms
+start executing report
+report executed in 0.5338191986083984 ms
+start executing report
+report executed in 0.5352497100830078 ms
+start executing report
+report executed in 0.5331039428710938 ms
+start executing report
+report executed in 0.5638599395751953 ms
+start executing report
+report executed in 0.5660057067871094 ms
+start executing report
+report executed in 0.5428791046142578 ms
+start executing report
+report executed in 0.5269050598144531 ms
+start executing report
+report executed in 0.5297660827636719 ms
+start executing report
+report executed in 0.5331039428710938 ms
+start executing report
+report executed in 0.8368492126464844 ms
+start executing report
+report executed in 1.5919208526611328 ms
+start executing report
+report executed in 0.6337165832519531 ms
+start executing report
+report executed in 0.5738735198974609 ms
+start executing report
+report executed in 0.6759166717529297 ms
+start executing report
+report executed in 0.8561611175537109 ms
+start executing report
+report executed in 0.6008148193359375 ms
+start executing report
+report executed in 0.6101131439208984 ms
+start executing report
+report executed in 0.5919933319091797 ms
+start executing report
+report executed in 22.39084243774414 ms
+start executing report
+report executed in 0.61798095703125 ms
+start executing report
+report executed in 0.5612373352050781 ms
+start executing report
+report executed in 0.5719661712646484 ms
+start executing report
+report executed in 0.6859302520751953 ms
+start executing report
+report executed in 0.5841255187988281 ms
+start executing report
+report executed in 0.5631446838378906 ms
+start executing report
+report executed in 0.5779266357421875 ms
+start executing report
+report executed in 0.5879402160644531 ms
+start executing report
+report executed in 0.7340908050537109 ms
+start executing report
+report executed in 0.5681514739990234 ms
+start executing report
+report executed in 0.5421638488769531 ms
+start executing report
+report executed in 0.5300045013427734 ms
+start executing report
+report executed in 0.5459785461425781 ms
+start executing report
+report executed in 0.5309581756591797 ms
+start executing report
+report executed in 0.5631446838378906 ms
+start executing report
+report executed in 0.6320476531982422 ms
+start executing report
+report executed in 0.5419254302978516 ms
+start executing report
+report executed in 0.7531642913818359 ms
+start executing report
+report executed in 0.5393028259277344 ms
+start executing report
+report executed in 0.6837844848632812 ms
+start executing report
+report executed in 0.5397796630859375 ms
+start executing report
+report executed in 0.5438327789306641 ms
+start executing report
+report executed in 0.5388259887695312 ms
+start executing report
+report executed in 0.560760498046875 ms
+start executing report
+report executed in 0.5619525909423828 ms
+start executing report
+report executed in 0.5478858947753906 ms
+start executing report
+report executed in 0.5352497100830078 ms
+start executing report
+report executed in 0.5209445953369141 ms
+start executing report
+report executed in 0.5550384521484375 ms
+start executing report
+report executed in 0.5488395690917969 ms
+start executing report
+report executed in 1.0271072387695312 ms
+start executing report
+report executed in 0.5311965942382812 ms
+start executing report
+report executed in 0.5459785461425781 ms
+start executing report
+report executed in 0.5230903625488281 ms
+start executing report
+report executed in 0.5948543548583984 ms
+start executing report
+report executed in 0.7050037384033203 ms
+start executing report
+report executed in 0.5550384521484375 ms
+start executing report
+report executed in 0.5660057067871094 ms
+start executing report
+report executed in 0.5648136138916016 ms
+start executing report
+report executed in 0.9129047393798828 ms
+start executing report
+report executed in 0.5767345428466797 ms
+start executing report
+report executed in 0.5481243133544922 ms
+start executing report
+report executed in 0.5471706390380859 ms
+start executing report
+report executed in 0.5466938018798828 ms
+start executing report
+report executed in 0.5471706390380859 ms
+start executing report
+report executed in 0.5412101745605469 ms
+start executing report
+report executed in 0.5130767822265625 ms
+start executing report
+report executed in 0.7669925689697266 ms
+start executing report
+report executed in 0.5931854248046875 ms
+start executing report
+report executed in 4.372835159301758 ms
+start executing report
+report executed in 0.6389617919921875 ms
+start executing report
+report executed in 0.5927085876464844 ms
+start executing report
+report executed in 1.8057823181152344 ms
+start executing report
+report executed in 1.1670589447021484 ms
+start executing report
+report executed in 0.6349086761474609 ms
+start executing report
+report executed in 0.5710124969482422 ms
+start executing report
+report executed in 0.6210803985595703 ms
+start executing report
+report executed in 1.3051033020019531 ms
+start executing report
+report executed in 1.7218589782714844 ms
+start executing report
+report executed in 0.6339550018310547 ms
+start executing report
+report executed in 1.7757415771484375 ms
+start executing report
+report executed in 1.2691020965576172 ms
+start executing report
+report executed in 0.8499622344970703 ms
+start executing report
+report executed in 0.6239414215087891 ms
+start executing report
+report executed in 0.7350444793701172 ms
+start executing report
+report executed in 0.7760524749755859 ms
+start executing report
+report executed in 0.6368160247802734 ms
+start executing report
+report executed in 0.8089542388916016 ms
+start executing report
+report executed in 0.6582736968994141 ms
+start executing report
+report executed in 0.7872581481933594 ms
+start executing report
+report executed in 1.4088153839111328 ms
+start executing report
+report executed in 0.78582763671875 ms
+start executing report
+report executed in 0.7510185241699219 ms
+start executing report
+report executed in 0.8120536804199219 ms
+start executing report
+report executed in 0.7507801055908203 ms
+start executing report
+report executed in 0.5769729614257812 ms
+start executing report
+report executed in 0.5538463592529297 ms
+start executing report
+report executed in 0.5319118499755859 ms
+start executing report
+report executed in 0.6399154663085938 ms
+start executing report
+report executed in 0.5602836608886719 ms
+start executing report
+report executed in 0.5290508270263672 ms
+start executing report
+report executed in 0.5347728729248047 ms
+start executing report
+report executed in 0.5419254302978516 ms
+start executing report
+report executed in 0.5407333374023438 ms
+start executing report
+report executed in 0.5528926849365234 ms
+start executing report
+report executed in 0.5280971527099609 ms
+start executing report
+report executed in 0.5369186401367188 ms
+start executing report
+report executed in 0.5879402160644531 ms
+start executing report
+report executed in 0.5283355712890625 ms
+start executing report
+report executed in 0.5419254302978516 ms
+start executing report
+report executed in 0.8890628814697266 ms
+start executing report
+report executed in 0.6198883056640625 ms
+start executing report
+report executed in 0.6170272827148438 ms
+start executing report
+report executed in 0.6699562072753906 ms
+start executing report
+report executed in 0.5338191986083984 ms
+start executing report
+report executed in 0.7050037384033203 ms
+start executing report
+report executed in 0.6110668182373047 ms
+start executing report
+report executed in 0.6167888641357422 ms
+start executing report
+report executed in 0.5879402160644531 ms
+start executing report
+report executed in 0.5490779876708984 ms
+start executing report
+report executed in 0.6501674652099609 ms
+start executing report
+report executed in 0.5350112915039062 ms
+start executing report
+report executed in 0.5419254302978516 ms
+start executing report
+report executed in 0.5238056182861328 ms
+start executing report
+report executed in 0.5309581756591797 ms
+start executing report
+report executed in 0.5209445953369141 ms
+start executing report
+report executed in 0.5440711975097656 ms
+start executing report
+report executed in 0.5257129669189453 ms
+start executing report
+report executed in 0.6082057952880859 ms
+start executing report
+report executed in 0.5600452423095703 ms
+start executing report
+report executed in 0.5660057067871094 ms
+start executing report
+report executed in 0.6420612335205078 ms
+start executing report
+report executed in 0.5459785461425781 ms
+start executing report
+report executed in 0.5230903625488281 ms
+start executing report
+report executed in 0.5407333374023438 ms
+start executing report
+report executed in 0.5328655242919922 ms
+start executing report
+report executed in 0.5247592926025391 ms
+start executing report
+report executed in 0.54931640625 ms
+start executing report
+report executed in 0.5362033843994141 ms
+start executing report
+report executed in 0.5497932434082031 ms
+start executing report
+report executed in 0.5497932434082031 ms
+start executing report
+report executed in 0.6201267242431641 ms
+start executing report
+report executed in 0.5421638488769531 ms
+start executing report
+report executed in 0.5359649658203125 ms
+start executing report
+report executed in 0.5588531494140625 ms
+start executing report
+report executed in 0.5581378936767578 ms
+start executing report
+report executed in 0.5991458892822266 ms
+start executing report
+report executed in 0.6079673767089844 ms
+start executing report
+report executed in 0.5650520324707031 ms
+start executing report
+report executed in 0.8950233459472656 ms
+start executing report
+report executed in 0.7271766662597656 ms
+start executing report
+report executed in 5.631923675537109 ms
+start executing report
+report executed in 0.8821487426757812 ms
+start executing report
+report executed in 0.5769729614257812 ms
+start executing report
+report executed in 0.5650520324707031 ms
+start executing report
+report executed in 0.5900859832763672 ms
+start executing report
+report executed in 0.5781650543212891 ms
+start executing report
+report executed in 0.5519390106201172 ms
+start executing report
+report executed in 0.5879402160644531 ms
+start executing report
+report executed in 0.5471706390380859 ms
+start executing report
+report executed in 0.5729198455810547 ms
+start executing report
+report executed in 0.5519390106201172 ms
+start executing report
+report executed in 0.55694580078125 ms
+start executing report
+report executed in 0.6251335144042969 ms
+start executing report
+report executed in 0.5660057067871094 ms
+start executing report
+report executed in 0.5488395690917969 ms
+start executing report
+report executed in 0.5362033843994141 ms
+start executing report
+report executed in 0.5638599395751953 ms
+start executing report
+report executed in 0.6320476531982422 ms
+start executing report
+report executed in 0.5700588226318359 ms
+start executing report
+report executed in 0.5533695220947266 ms
+start executing report
+report executed in 0.5719661712646484 ms
+start executing report
+report executed in 0.5469322204589844 ms
+start executing report
+report executed in 0.5829334259033203 ms
+start executing report
+report executed in 0.5450248718261719 ms
+start executing report
+report executed in 0.5350112915039062 ms
+start executing report
+report executed in 0.5710124969482422 ms
+start executing report
+report executed in 0.5540847778320312 ms
+start executing report
+report executed in 0.5469322204589844 ms
+start executing report
+report executed in 0.5462169647216797 ms
+start executing report
+report executed in 0.9500980377197266 ms
+start executing report
+report executed in 0.6318092346191406 ms
+start executing report
+report executed in 1.4908313751220703 ms
+start executing report
+report executed in 0.6117820739746094 ms
+start executing report
+report executed in 0.5860328674316406 ms
+start executing report
+report executed in 0.6568431854248047 ms
+start executing report
+report executed in 0.5528926849365234 ms
+start executing report
+report executed in 0.537872314453125 ms
+start executing report
+report executed in 0.5350112915039062 ms
+start executing report
+report executed in 0.5412101745605469 ms
+start executing report
+report executed in 0.5240440368652344 ms
+start executing report
+report executed in 0.5431175231933594 ms
+start executing report
+report executed in 0.5719661712646484 ms
+start executing report
+report executed in 0.6780624389648438 ms
+start executing report
+report executed in 0.57220458984375 ms
+start executing report
+report executed in 0.6082057952880859 ms
+start executing report
+report executed in 0.5519390106201172 ms
+start executing report
+report executed in 0.5440711975097656 ms
+start executing report
+report executed in 0.5481243133544922 ms
+start executing report
+report executed in 0.7398128509521484 ms
+start executing report
+report executed in 0.6380081176757812 ms
+start executing report
+report executed in 0.5676746368408203 ms
+start executing report
+report executed in 0.55694580078125 ms
+start executing report
+report executed in 0.5681514739990234 ms
+start executing report
+report executed in 0.7178783416748047 ms
+start executing report
+report executed in 2.6397705078125 ms
+start executing report
+report executed in 2.4650096893310547 ms
+start executing report
+report executed in 0.8149147033691406 ms
+start executing report
+report executed in 0.5619525909423828 ms
+start executing report
+report executed in 0.5240440368652344 ms
+start executing report
+report executed in 0.5290508270263672 ms
+start executing report
+report executed in 0.537872314453125 ms
+start executing report
+report executed in 0.5431175231933594 ms
+start executing report
+report executed in 0.5331039428710938 ms
+start executing report
+report executed in 0.5350112915039062 ms
+start executing report
+report executed in 0.5338191986083984 ms
+start executing report
+report executed in 1.1529922485351562 ms
+start executing report
+report executed in 0.5688667297363281 ms
+start executing report
+report executed in 0.8461475372314453 ms
+start executing report
+report executed in 0.5729198455810547 ms
+start executing report
+report executed in 0.5548000335693359 ms
+start executing report
+report executed in 0.5576610565185547 ms
+start executing report
+report executed in 0.762939453125 ms
+start executing report
+report executed in 0.5950927734375 ms
+start executing report
+report executed in 0.5588531494140625 ms
+start executing report
+report executed in 0.6151199340820312 ms
+start executing report
+report executed in 0.5769729614257812 ms
+start executing report
+report executed in 0.5550384521484375 ms
+start executing report
+report executed in 0.5362033843994141 ms
+start executing report
+report executed in 0.6439685821533203 ms
+start executing report
+report executed in 0.5469322204589844 ms
+start executing report
+report executed in 0.5419254302978516 ms
+start executing report
+report executed in 0.5590915679931641 ms
+start executing report
+report executed in 0.5328655242919922 ms
+start executing report
+report executed in 0.6277561187744141 ms
+start executing report
+report executed in 0.5791187286376953 ms
+start executing report
+report executed in 0.5431175231933594 ms
+start executing report
+report executed in 0.5357265472412109 ms
+start executing report
+report executed in 0.5450248718261719 ms
+start executing report
+report executed in 0.5381107330322266 ms
+start executing report
+report executed in 0.5388259887695312 ms
+start executing report
+report executed in 0.5357265472412109 ms
+start executing report
+report executed in 0.5829334259033203 ms
+start executing report
+report executed in 0.5557537078857422 ms
+start executing report
+report executed in 0.5309581756591797 ms
+start executing report
+report executed in 0.5729198455810547 ms
+start executing report
+report executed in 0.5390644073486328 ms
+start executing report
+report executed in 0.5238056182861328 ms
+start executing report
+report executed in 0.5509853363037109 ms
+start executing report
+report executed in 0.5359649658203125 ms
+start executing report
+report executed in 0.5409717559814453 ms
+start executing report
+report executed in 0.6399154663085938 ms
+start executing report
+report executed in 0.6158351898193359 ms
+start executing report
+report executed in 0.6301403045654297 ms
+start executing report
+report executed in 0.5900859832763672 ms
+start executing report
+report executed in 0.6532669067382812 ms
+start executing report
+report executed in 0.6489753723144531 ms
+start executing report
+report executed in 1.379251480102539 ms
+start executing report
+report executed in 0.965118408203125 ms
+start executing report
+report executed in 0.6122589111328125 ms
+start executing report
+report executed in 0.5650520324707031 ms
+start executing report
+report executed in 0.5681514739990234 ms
+start executing report
+report executed in 0.6580352783203125 ms
+start executing report
+report executed in 0.7429122924804688 ms
+start executing report
+report executed in 1.0197162628173828 ms
+start executing report
+report executed in 1.4719963073730469 ms
+start executing report
+report executed in 0.6079673767089844 ms
+start executing report
+report executed in 0.6797313690185547 ms
+start executing report
+report executed in 0.6930828094482422 ms
+start executing report
+report executed in 0.6029605865478516 ms
+start executing report
+report executed in 1.2657642364501953 ms
+start executing report
+report executed in 3.4618377685546875 ms
+start executing report
+report executed in 0.7767677307128906 ms
+start executing report
+report executed in 0.8170604705810547 ms
+start executing report
+report executed in 0.5898475646972656 ms
+start executing report
+report executed in 0.6031990051269531 ms
+start executing report
+report executed in 0.6031990051269531 ms
+start executing report
+report executed in 0.6551742553710938 ms
+start executing report
+report executed in 0.6811618804931641 ms
+start executing report
+report executed in 0.5939006805419922 ms
+start executing report
+report executed in 0.6208419799804688 ms
+start executing report
+report executed in 8.647918701171875 ms
+start executing report
+report executed in 1.0530948638916016 ms
+start executing report
+report executed in 0.9520053863525391 ms
+start executing report
+report executed in 1.435995101928711 ms
+start executing report
+report executed in 0.6530284881591797 ms
+start executing report
+report executed in 0.6551742553710938 ms
+start executing report
+report executed in 0.9989738464355469 ms
+start executing report
+report executed in 0.6372928619384766 ms
+start executing report
+report executed in 0.5671977996826172 ms
+start executing report
+report executed in 0.6451606750488281 ms
+start executing report
+report executed in 0.6258487701416016 ms
+start executing report
+report executed in 0.6749629974365234 ms
+start executing report
+report executed in 0.5717277526855469 ms
+start executing report
+report executed in 0.9772777557373047 ms
+start executing report
+report executed in 3.6859512329101562 ms
+start executing report
+report executed in 0.6511211395263672 ms
+start executing report
+report executed in 0.6051063537597656 ms
+start executing report
+report executed in 0.5507469177246094 ms
+start executing report
+report executed in 0.5581378936767578 ms
+start executing report
+report executed in 0.6210803985595703 ms
+start executing report
+report executed in 0.5791187286376953 ms
+start executing report
+report executed in 0.5440711975097656 ms
+start executing report
+report executed in 0.5621910095214844 ms
+start executing report
+report executed in 0.5481243133544922 ms
+start executing report
+report executed in 0.5691051483154297 ms
+start executing report
+report executed in 1.0631084442138672 ms
+start executing report
+report executed in 0.7731914520263672 ms
+start executing report
+report executed in 0.5838871002197266 ms
+start executing report
+report executed in 0.5640983581542969 ms
+start executing report
+report executed in 0.5419254302978516 ms
+start executing report
+report executed in 0.5457401275634766 ms
+start executing report
+report executed in 0.5869865417480469 ms
+start executing report
+report executed in 0.7119178771972656 ms
+start executing report
+report executed in 0.6220340728759766 ms
+start executing report
+report executed in 0.6189346313476562 ms
+start executing report
+report executed in 0.579833984375 ms
+start executing report
+report executed in 0.6389617919921875 ms
+start executing report
+report executed in 0.6158351898193359 ms
+start executing report
+report executed in 0.5788803100585938 ms
+start executing report
+report executed in 0.5457401275634766 ms
+start executing report
+report executed in 0.5550384521484375 ms
+start executing report
+report executed in 0.5609989166259766 ms
+start executing report
+report executed in 0.5497932434082031 ms
+start executing report
+report executed in 0.553131103515625 ms
+start executing report
+report executed in 0.5428791046142578 ms
+start executing report
+report executed in 0.6701946258544922 ms
+start executing report
+report executed in 0.5640983581542969 ms
+start executing report
+report executed in 0.60272216796875 ms
+start executing report
+report executed in 0.5598068237304688 ms
+start executing report
+report executed in 0.5769729614257812 ms
+start executing report
+report executed in 0.6458759307861328 ms
+start executing report
+report executed in 0.5640983581542969 ms
+start executing report
+report executed in 0.5462169647216797 ms
+start executing report
+report executed in 0.5350112915039062 ms
+start executing report
+report executed in 0.6170272827148438 ms
+start executing report
+report executed in 0.5590915679931641 ms
+start executing report
+report executed in 0.6070137023925781 ms
+start executing report
+report executed in 0.6108283996582031 ms
+start executing report
+report executed in 0.6871223449707031 ms
+start executing report
+report executed in 0.5943775177001953 ms
+start executing report
+report executed in 0.5538463592529297 ms
+start executing report
+report executed in 0.5578994750976562 ms
+start executing report
+report executed in 0.5338191986083984 ms
+start executing report
+report executed in 0.5409717559814453 ms
+start executing report
+report executed in 0.5459785461425781 ms
+start executing report
+report executed in 0.5400180816650391 ms
+start executing report
+report executed in 0.78582763671875 ms
+start executing report
+report executed in 0.5259513854980469 ms
+start executing report
+report executed in 0.6210803985595703 ms
+start executing report
+report executed in 0.5500316619873047 ms
+start executing report
+report executed in 0.5409717559814453 ms
+start executing report
+report executed in 0.5381107330322266 ms
+start executing report
+report executed in 0.5309581756591797 ms
+start executing report
+report executed in 0.6427764892578125 ms
+start executing report
+report executed in 0.5598068237304688 ms
+start executing report
+report executed in 0.6768703460693359 ms
+start executing report
+report executed in 0.5340576171875 ms
+start executing report
+report executed in 0.5319118499755859 ms
+start executing report
+report executed in 0.5438327789306641 ms
+start executing report
+report executed in 0.6778240203857422 ms
+start executing report
+report executed in 0.6442070007324219 ms
+start executing report
+report executed in 0.5481243133544922 ms
+start executing report
+report executed in 0.5438327789306641 ms
+start executing report
+report executed in 0.5910396575927734 ms
+start executing report
+report executed in 0.5881786346435547 ms
+start executing report
+report executed in 0.5409717559814453 ms
+start executing report
+report executed in 0.5598068237304688 ms
+start executing report
+report executed in 0.5366802215576172 ms
+start executing report
+report executed in 0.5750656127929688 ms
+start executing report
+report executed in 0.5450248718261719 ms
+start executing report
+report executed in 0.5419254302978516 ms
+start executing report
+report executed in 0.5209445953369141 ms
+start executing report
+report executed in 0.5388259887695312 ms
+start executing report
+report executed in 0.5218982696533203 ms
+start executing report
+report executed in 0.5209445953369141 ms
+start executing report
+report executed in 0.5211830139160156 ms
+start executing report
+report executed in 0.5209445953369141 ms
+start executing report
+report executed in 0.5719661712646484 ms
+start executing report
+report executed in 0.5490779876708984 ms
+start executing report
+report executed in 0.5431175231933594 ms
+start executing report
+report executed in 0.5419254302978516 ms
+start executing report
+report executed in 0.5800724029541016 ms
+start executing report
+report executed in 0.6432533264160156 ms
+start executing report
+report executed in 0.5297660827636719 ms
+start executing report
+report executed in 0.5388259887695312 ms
+start executing report
+report executed in 0.9028911590576172 ms
+start executing report
+report executed in 0.5869865417480469 ms
+start executing report
+report executed in 0.5450248718261719 ms
+start executing report
+report executed in 0.5490779876708984 ms
+start executing report
+report executed in 0.5450248718261719 ms
+start executing report
+report executed in 0.5500316619873047 ms
+start executing report
+report executed in 0.5803108215332031 ms
+start executing report
+report executed in 0.7276535034179688 ms
+start executing report
+report executed in 0.7171630859375 ms
+start executing report
+report executed in 0.5817413330078125 ms
+start executing report
+report executed in 0.5431175231933594 ms
+start executing report
+report executed in 0.5388259887695312 ms
+start executing report
+report executed in 0.5500316619873047 ms
+start executing report
+report executed in 1.3132095336914062 ms
+start executing report
+report executed in 1.165151596069336 ms
+start executing report
+report executed in 0.5512237548828125 ms
+start executing report
+report executed in 0.5240440368652344 ms
+start executing report
+report executed in 0.5261898040771484 ms
+start executing report
+report executed in 0.5540847778320312 ms
+start executing report
+report executed in 0.6299018859863281 ms
+start executing report
+report executed in 0.5424022674560547 ms
+start executing report
+report executed in 0.5748271942138672 ms
+start executing report
+report executed in 0.5290508270263672 ms
+start executing report
+report executed in 0.5519390106201172 ms
+start executing report
+report executed in 0.5390644073486328 ms
+start executing report
+report executed in 0.5512237548828125 ms
+start executing report
+report executed in 0.5180835723876953 ms
+start executing report
+report executed in 0.5338191986083984 ms
+start executing report
+report executed in 0.5221366882324219 ms
+start executing report
+report executed in 0.5497932434082031 ms
+start executing report
+report executed in 0.5249977111816406 ms
+start executing report
+report executed in 0.5331039428710938 ms
+start executing report
+report executed in 0.5419254302978516 ms
+start executing report
+report executed in 0.5350112915039062 ms
+start executing report
+report executed in 0.5562305450439453 ms
+start executing report
+report executed in 0.7538795471191406 ms
+start executing report
+report executed in 0.5509853363037109 ms
+start executing report
+report executed in 0.5660057067871094 ms
+start executing report
+report executed in 0.6339550018310547 ms
+start executing report
+report executed in 0.6220340728759766 ms
+start executing report
+report executed in 1.299142837524414 ms
+start executing report
+report executed in 1.0600090026855469 ms
+start executing report
+report executed in 0.6518363952636719 ms
+start executing report
+report executed in 0.5881786346435547 ms
+start executing report
+report executed in 0.5698204040527344 ms
+start executing report
+report executed in 0.6008148193359375 ms
+start executing report
+report executed in 0.7138252258300781 ms
+start executing report
+report executed in 0.6647109985351562 ms
+start executing report
+report executed in 0.7181167602539062 ms
+start executing report
+report executed in 0.6840229034423828 ms
+start executing report
+report executed in 0.598907470703125 ms
+start executing report
+report executed in 0.5619525909423828 ms
+start executing report
+report executed in 0.5817413330078125 ms
+start executing report
+report executed in 0.9388923645019531 ms
+start executing report
+report executed in 2.362966537475586 ms
+start executing report
+report executed in 0.5888938903808594 ms
+start executing report
+report executed in 0.5958080291748047 ms
+start executing report
+report executed in 0.5481243133544922 ms
+start executing report
+report executed in 0.5540847778320312 ms
+start executing report
+report executed in 0.5424022674560547 ms
+start executing report
+report executed in 0.5440711975097656 ms
+start executing report
+report executed in 0.5409717559814453 ms
+start executing report
+report executed in 0.5738735198974609 ms
+start executing report
+report executed in 0.6358623504638672 ms
+start executing report
+report executed in 0.7350444793701172 ms
+start executing report
+report executed in 0.5621910095214844 ms
+start executing report
+report executed in 0.5638599395751953 ms
+start executing report
+report executed in 0.5490779876708984 ms
+start executing report
+report executed in 0.6062984466552734 ms
+start executing report
+report executed in 0.5581378936767578 ms
+start executing report
+report executed in 0.5578994750976562 ms
+start executing report
+report executed in 0.5478858947753906 ms
+start executing report
+report executed in 0.5769729614257812 ms
+start executing report
+report executed in 0.5772113800048828 ms
+start executing report
+report executed in 0.5719661712646484 ms
+start executing report
+report executed in 0.5280971527099609 ms
+start executing report
+report executed in 0.6780624389648438 ms
+start executing report
+report executed in 0.6260871887207031 ms
+start executing report
+report executed in 0.7736682891845703 ms
+start executing report
+report executed in 0.5581378936767578 ms
+start executing report
+report executed in 0.6189346313476562 ms
+start executing report
+report executed in 0.7658004760742188 ms
+start executing report
+report executed in 0.5519390106201172 ms
+start executing report
+report executed in 0.9858608245849609 ms
+start executing report
+report executed in 0.9238719940185547 ms
+start executing report
+report executed in 1.638174057006836 ms
+start executing report
+report executed in 0.7557868957519531 ms
+start executing report
+report executed in 0.5500316619873047 ms
+start executing report
+report executed in 0.5419254302978516 ms
+start executing report
+report executed in 0.5829334259033203 ms
+start executing report
+report executed in 0.5321502685546875 ms
+start executing report
+report executed in 0.5280971527099609 ms
+start executing report
+report executed in 0.5640983581542969 ms
+start executing report
+report executed in 0.5490779876708984 ms
+start executing report
+report executed in 0.5209445953369141 ms
+start executing report
+report executed in 0.6289482116699219 ms
+start executing report
+report executed in 0.5598068237304688 ms
+start executing report
+report executed in 0.5409717559814453 ms
+start executing report
+report executed in 0.5440711975097656 ms
+start executing report
+report executed in 0.5328655242919922 ms
+start executing report
+report executed in 0.5691051483154297 ms
+start executing report
+report executed in 0.5977153778076172 ms
+start executing report
+report executed in 0.5500316619873047 ms
+start executing report
+report executed in 0.5338191986083984 ms
+start executing report
+report executed in 0.5919933319091797 ms
+start executing report
+report executed in 0.5507469177246094 ms
+start executing report
+report executed in 0.5533695220947266 ms
+start executing report
+report executed in 0.6570816040039062 ms
+start executing report
+report executed in 0.5362033843994141 ms
+start executing report
+report executed in 0.5466938018798828 ms
+start executing report
+report executed in 0.5297660827636719 ms
+start executing report
+report executed in 0.5650520324707031 ms
+start executing report
+report executed in 0.5953311920166016 ms
+start executing report
+report executed in 0.6220340728759766 ms
+start executing report
+report executed in 0.7021427154541016 ms
+start executing report
+report executed in 0.6210803985595703 ms
+start executing report
+report executed in 0.6401538848876953 ms
+start executing report
+report executed in 0.7240772247314453 ms
+start executing report
+report executed in 0.5402565002441406 ms
+start executing report
+report executed in 0.5311965942382812 ms
+start executing report
+report executed in 0.5333423614501953 ms
+start executing report
+report executed in 0.5869865417480469 ms
+start executing report
+report executed in 0.5719661712646484 ms
+start executing report
+report executed in 0.6721019744873047 ms
+start executing report
+report executed in 0.6918907165527344 ms
+start executing report
+report executed in 0.6031990051269531 ms
+start executing report
+report executed in 0.6039142608642578 ms
+start executing report
+report executed in 0.5681514739990234 ms
+start executing report
+report executed in 0.5311965942382812 ms
+start executing report
+report executed in 0.7193088531494141 ms
+start executing report
+report executed in 0.5488395690917969 ms
+start executing report
+report executed in 0.5431175231933594 ms
+start executing report
+report executed in 0.5390644073486328 ms
+start executing report
+report executed in 0.5366802215576172 ms
+start executing report
+report executed in 0.5290508270263672 ms
+start executing report
+report executed in 0.5440711975097656 ms
+start executing report
+report executed in 0.61798095703125 ms
+start executing report
+report executed in 2.7740001678466797 ms
+start executing report
+report executed in 0.6442070007324219 ms
+start executing report
+report executed in 0.5457401275634766 ms
+start executing report
+report executed in 0.5428791046142578 ms
+start executing report
+report executed in 0.5769729614257812 ms
+start executing report
+report executed in 0.5490779876708984 ms
+start executing report
+report executed in 0.5428791046142578 ms
+start executing report
+report executed in 0.5261898040771484 ms
+start executing report
+report executed in 0.5910396575927734 ms
+start executing report
+report executed in 0.5819797515869141 ms
+start executing report
+report executed in 0.5319118499755859 ms
+start executing report
+report executed in 0.5180835723876953 ms
+start executing report
+report executed in 0.5238056182861328 ms
+start executing report
+report executed in 0.6210803985595703 ms
+start executing report
+report executed in 0.7431507110595703 ms
+start executing report
+report executed in 0.5450248718261719 ms
+start executing report
+report executed in 0.5309581756591797 ms
+start executing report
+report executed in 0.5319118499755859 ms
+start executing report
+report executed in 1.1768341064453125 ms
+start executing report
+report executed in 0.5578994750976562 ms
+start executing report
+report executed in 0.5319118499755859 ms
+start executing report
+report executed in 0.5409717559814453 ms
+start executing report
+report executed in 0.5249977111816406 ms
+start executing report
+report executed in 0.5252361297607422 ms
+start executing report
+report executed in 0.5350112915039062 ms
+start executing report
+report executed in 0.7059574127197266 ms
+start executing report
+report executed in 0.598907470703125 ms
+start executing report
+report executed in 0.5538463592529297 ms
+start executing report
+report executed in 0.5209445953369141 ms
+start executing report
+report executed in 0.5288124084472656 ms
+start executing report
+report executed in 0.5409717559814453 ms
+start executing report
+report executed in 0.5178451538085938 ms
+start executing report
+report executed in 0.5249977111816406 ms
+start executing report
+report executed in 0.6031990051269531 ms
+start executing report
+report executed in 0.5681514739990234 ms
+start executing report
+report executed in 0.5598068237304688 ms
+start executing report
+report executed in 0.6299018859863281 ms
+start executing report
+report executed in 0.5371570587158203 ms
+start executing report
+report executed in 0.6620883941650391 ms
+start executing report
+report executed in 0.5612373352050781 ms
+start executing report
+report executed in 0.5390644073486328 ms
+start executing report
+report executed in 0.5331039428710938 ms
+start executing report
+report executed in 0.537872314453125 ms
+start executing report
+report executed in 0.5340576171875 ms
+start executing report
+report executed in 0.5300045013427734 ms
+start executing report
+report executed in 0.5471706390380859 ms
+start executing report
+report executed in 0.5259513854980469 ms
+start executing report
+report executed in 0.5311965942382812 ms
+start executing report
+report executed in 0.5540847778320312 ms
+start executing report
+report executed in 0.5288124084472656 ms
+start executing report
+report executed in 0.5199909210205078 ms
+start executing report
+report executed in 0.5171298980712891 ms
+start executing report
+report executed in 0.5810260772705078 ms
+start executing report
+report executed in 0.5309581756591797 ms
+start executing report
+report executed in 0.5130767822265625 ms
+start executing report
+report executed in 0.5109310150146484 ms
+start executing report
+report executed in 0.5209445953369141 ms
+start executing report
+report executed in 0.5848407745361328 ms
+start executing report
+report executed in 0.5347728729248047 ms
+start executing report
+report executed in 0.6201267242431641 ms
+start executing report
+report executed in 0.5419254302978516 ms
+start executing report
+report executed in 0.5459785461425781 ms
+start executing report
+report executed in 0.8671283721923828 ms
+start executing report
+report executed in 0.5640983581542969 ms
+start executing report
+report executed in 0.5450248718261719 ms
+start executing report
+report executed in 0.6809234619140625 ms
+start executing report
+report executed in 0.5381107330322266 ms
+start executing report
+report executed in 0.6017684936523438 ms
+start executing report
+report executed in 0.6499290466308594 ms
+start executing report
+report executed in 0.675201416015625 ms
+start executing report
+report executed in 0.6449222564697266 ms
+start executing report
+report executed in 0.5786418914794922 ms
+start executing report
+report executed in 0.5590915679931641 ms
+start executing report
+report executed in 0.5888938903808594 ms
+start executing report
+report executed in 0.5497932434082031 ms
+start executing report
+report executed in 0.5459785461425781 ms
+start executing report
+report executed in 0.5712509155273438 ms
+start executing report
+report executed in 0.5550384521484375 ms
+start executing report
+report executed in 0.5424022674560547 ms
+start executing report
+report executed in 0.6029605865478516 ms
+start executing report
+report executed in 0.6229877471923828 ms
+start executing report
+report executed in 0.6690025329589844 ms
+start executing report
+report executed in 0.5629062652587891 ms
+start executing report
+report executed in 0.5371570587158203 ms
+start executing report
+report executed in 0.5359649658203125 ms
+start executing report
+report executed in 0.5407333374023438 ms
+start executing report
+report executed in 0.5500316619873047 ms
+start executing report
+report executed in 0.6299018859863281 ms
+start executing report
+report executed in 0.6041526794433594 ms
+start executing report
+report executed in 0.5629062652587891 ms
+start executing report
+report executed in 0.5700588226318359 ms
+start executing report
+report executed in 0.5409717559814453 ms
+start executing report
+report executed in 0.5548000335693359 ms
+start executing report
+report executed in 0.5230903625488281 ms
+start executing report
+report executed in 0.5249977111816406 ms
+start executing report
+report executed in 0.5261898040771484 ms
+start executing report
+report executed in 0.5280971527099609 ms
+start executing report
+report executed in 0.8070468902587891 ms
+start executing report
+report executed in 0.5462169647216797 ms
+start executing report
+report executed in 0.5559921264648438 ms
+start executing report
+report executed in 0.5631446838378906 ms
+start executing report
+report executed in 0.5319118499755859 ms
+start executing report
+report executed in 0.5590915679931641 ms
+start executing report
+report executed in 0.7269382476806641 ms
+start executing report
+report executed in 0.6897449493408203 ms
+start executing report
+report executed in 0.6048679351806641 ms
+start executing report
+report executed in 0.5679130554199219 ms
+start executing report
+report executed in 0.5660057067871094 ms
+start executing report
+report executed in 0.530242919921875 ms
+start executing report
+report executed in 0.5402565002441406 ms
+start executing report
+report executed in 0.5412101745605469 ms
+start executing report
+report executed in 0.5240440368652344 ms
+start executing report
+report executed in 0.5240440368652344 ms
+start executing report
+report executed in 0.6799697875976562 ms
+start executing report
+report executed in 0.5741119384765625 ms
+start executing report
+report executed in 0.6158351898193359 ms
+start executing report
+report executed in 0.5357265472412109 ms
+start executing report
+report executed in 0.5280971527099609 ms
+start executing report
+report executed in 0.5812644958496094 ms
+start executing report
+report executed in 0.5228519439697266 ms
+start executing report
+report executed in 0.5228519439697266 ms
+start executing report
+report executed in 0.5171298980712891 ms
+start executing report
+report executed in 0.6108283996582031 ms
+start executing report
+report executed in 0.5419254302978516 ms
+start executing report
+report executed in 0.5350112915039062 ms
+start executing report
+report executed in 0.6067752838134766 ms
+start executing report
+report executed in 0.5331039428710938 ms
+start executing report
+report executed in 0.5269050598144531 ms
+start executing report
+report executed in 0.6690025329589844 ms
+start executing report
+report executed in 0.5340576171875 ms
+start executing report
+report executed in 0.530242919921875 ms
+start executing report
+report executed in 0.5550384521484375 ms
+start executing report
+report executed in 0.5948543548583984 ms
+start executing report
+report executed in 0.5609989166259766 ms
+start executing report
+report executed in 0.5218982696533203 ms
+start executing report
+report executed in 0.5383491516113281 ms
+start executing report
+report executed in 0.5419254302978516 ms
+start executing report
+report executed in 0.5278587341308594 ms
+start executing report
+report executed in 0.5209445953369141 ms
+start executing report
+report executed in 0.8928775787353516 ms
+start executing report
+report executed in 0.5478858947753906 ms
+start executing report
+report executed in 0.5366802215576172 ms
+start executing report
+report executed in 0.5240440368652344 ms
+start executing report
+report executed in 0.5640983581542969 ms
+start executing report
+report executed in 0.5390644073486328 ms
+start executing report
+report executed in 2.8319358825683594 ms
+start executing report
+report executed in 0.8070468902587891 ms
+start executing report
+report executed in 2.6967525482177734 ms
+start executing report
+report executed in 0.5781650543212891 ms
+start executing report
+report executed in 0.5600452423095703 ms
+start executing report
+report executed in 0.5900859832763672 ms
+start executing report
+report executed in 0.5438327789306641 ms
+start executing report
+report executed in 0.5271434783935547 ms
+start executing report
+report executed in 0.5288124084472656 ms
+start executing report
+report executed in 0.5247592926025391 ms
+start executing report
+report executed in 0.5288124084472656 ms
+start executing report
+report executed in 0.5288124084472656 ms
+start executing report
+report executed in 0.5340576171875 ms
+start executing report
+report executed in 0.5259513854980469 ms
+start executing report
+report executed in 0.5209445953369141 ms
+start executing report
+report executed in 0.5168914794921875 ms
+start executing report
+report executed in 0.5168914794921875 ms
+start executing report
+report executed in 0.5278587341308594 ms
+start executing report
+report executed in 0.5419254302978516 ms
+start executing report
+report executed in 0.5278587341308594 ms
+start executing report
+report executed in 0.5171298980712891 ms
+start executing report
+report executed in 0.5121231079101562 ms
+start executing report
+report executed in 0.514984130859375 ms
+start executing report
+report executed in 0.5121231079101562 ms
+start executing report
+report executed in 1.0449886322021484 ms
+start executing report
+report executed in 1.6682147979736328 ms
+start executing report
+report executed in 0.5631446838378906 ms
+start executing report
+report executed in 1.2462139129638672 ms
+start executing report
+report executed in 0.9520053863525391 ms
+start executing report
+report executed in 0.7231235504150391 ms
+start executing report
+report executed in 1.0428428649902344 ms
+start executing report
+report executed in 1.435995101928711 ms
+start executing report
+report executed in 1.8510818481445312 ms
+start executing report
+report executed in 0.9200572967529297 ms
+start executing report
+report executed in 1.0030269622802734 ms
+start executing report
+report executed in 0.9317398071289062 ms
+start executing report
+report executed in 0.9419918060302734 ms
+start executing report
+report executed in 0.8778572082519531 ms
+start executing report
+report executed in 1.010894775390625 ms
+start executing report
+report executed in 1.1119842529296875 ms
+start executing report
+report executed in 1.9440650939941406 ms
+start executing report
+report executed in 0.9720325469970703 ms
+start executing report
+report executed in 1.0309219360351562 ms
+start executing report
+report executed in 0.9987354278564453 ms
+start executing report
+report executed in 1.0340213775634766 ms
+start executing report
+report executed in 0.9291172027587891 ms
+start executing report
+report executed in 1.0921955108642578 ms
+start executing report
+report executed in 1.0449886322021484 ms
+start executing report
+report executed in 0.8556842803955078 ms
+start executing report
+report executed in 1.8970966339111328 ms
+start executing report
+report executed in 0.5848407745361328 ms
+start executing report
+report executed in 0.5338191986083984 ms
+start executing report
+report executed in 0.5390644073486328 ms
+start executing report
+report executed in 0.5300045013427734 ms
+start executing report
+report executed in 0.5340576171875 ms
+start executing report
+report executed in 0.5168914794921875 ms
+start executing report
+report executed in 0.5881786346435547 ms
+start executing report
+report executed in 0.6499290466308594 ms
+start executing report
+report executed in 0.6399154663085938 ms
+start executing report
+report executed in 0.5719661712646484 ms
+start executing report
+report executed in 0.5519390106201172 ms
+start executing report
+report executed in 0.5476474761962891 ms
+start executing report
+report executed in 0.7407665252685547 ms
+start executing report
+report executed in 0.8320808410644531 ms
+start executing report
+report executed in 1.6851425170898438 ms
+start executing report
+report executed in 0.7159709930419922 ms
+start executing report
+report executed in 0.5879402160644531 ms
+start executing report
+report executed in 0.5550384521484375 ms
+start executing report
+report executed in 0.6520748138427734 ms
+start executing report
+report executed in 0.6659030914306641 ms
+start executing report
+report executed in 0.5540847778320312 ms
+start executing report
+report executed in 1.1267662048339844 ms
+start executing report
+report executed in 1.0097026824951172 ms
+start executing report
+report executed in 0.9436607360839844 ms
+start executing report
+report executed in 0.8540153503417969 ms
+start executing report
+report executed in 0.9410381317138672 ms
+start executing report
+report executed in 0.8771419525146484 ms
+start executing report
+report executed in 2.4149417877197266 ms
+start executing report
+report executed in 1.1529922485351562 ms
+start executing report
+report executed in 1.8002986907958984 ms
+start executing report
+report executed in 0.9019374847412109 ms
+start executing report
+report executed in 0.9827613830566406 ms
+start executing report
+report executed in 0.7610321044921875 ms
+start executing report
+report executed in 1.589059829711914 ms
+start executing report
+report executed in 1.4619827270507812 ms
+start executing report
+report executed in 0.8120536804199219 ms
+start executing report
+report executed in 0.7660388946533203 ms
+start executing report
+report executed in 1.0776519775390625 ms
+start executing report
+report executed in 7.171154022216797 ms
+start executing report
+report executed in 0.8761882781982422 ms
+start executing report
+report executed in 1.1641979217529297 ms
+start executing report
+report executed in 1.0461807250976562 ms
+start executing report
+report executed in 0.8208751678466797 ms
+start executing report
+report executed in 0.9789466857910156 ms
+start executing report
+report executed in 1.3320446014404297 ms
+start executing report
+report executed in 0.7741451263427734 ms
+start executing report
+report executed in 1.1591911315917969 ms
+start executing report
+report executed in 2.004384994506836 ms
+start executing report
+report executed in 0.9527206420898438 ms
+start executing report
+report executed in 0.8609294891357422 ms
+start executing report
+report executed in 0.8342266082763672 ms
+start executing report
+report executed in 1.730203628540039 ms
+start executing report
+report executed in 0.9059906005859375 ms
+start executing report
+report executed in 0.9169578552246094 ms
+start executing report
+report executed in 0.8189678192138672 ms
+start executing report
+report executed in 1.9240379333496094 ms
+start executing report
+report executed in 1.5690326690673828 ms
+start executing report
+report executed in 2.189159393310547 ms
+start executing report
+report executed in 1.6369819641113281 ms
+start executing report
+report executed in 0.9851455688476562 ms
+start executing report
+report executed in 0.9179115295410156 ms
+start executing report
+report executed in 0.8988380432128906 ms
+start executing report
+report executed in 8.404016494750977 ms
+start executing report
+report executed in 1.2998580932617188 ms
+start executing report
+report executed in 0.9918212890625 ms
+start executing report
+report executed in 1.2209415435791016 ms
+start executing report
+report executed in 1.1060237884521484 ms
+start executing report
+report executed in 2.1049976348876953 ms
+start executing report
+report executed in 4.380941390991211 ms
+start executing report
+report executed in 0.9038448333740234 ms
+start executing report
+report executed in 1.708984375 ms
+start executing report
+report executed in 0.7486343383789062 ms
+start executing report
+report executed in 0.80108642578125 ms
+start executing report
+report executed in 0.8039474487304688 ms
+start executing report
+report executed in 0.9500980377197266 ms
+start executing report
+report executed in 0.7791519165039062 ms
+start executing report
+report executed in 0.8001327514648438 ms
+start executing report
+report executed in 0.9148120880126953 ms
+start executing report
+report executed in 1.1000633239746094 ms
+start executing report
+report executed in 0.8909702301025391 ms
+start executing report
+report executed in 0.7951259613037109 ms
+start executing report
+report executed in 0.8561611175537109 ms
+start executing report
+report executed in 1.992940902709961 ms
+start executing report
+report executed in 0.9169578552246094 ms
+start executing report
+report executed in 0.9694099426269531 ms
+start executing report
+report executed in 1.1222362518310547 ms
+start executing report
+report executed in 0.823974609375 ms
+start executing report
+report executed in 0.8487701416015625 ms
+start executing report
+report executed in 1.9898414611816406 ms
+start executing report
+report executed in 0.9210109710693359 ms
+start executing report
+report executed in 0.7998943328857422 ms
+start executing report
+report executed in 0.8349418640136719 ms
+start executing report
+report executed in 0.7863044738769531 ms
+start executing report
+report executed in 0.8220672607421875 ms
+start executing report
+report executed in 1.4011859893798828 ms
+start executing report
+report executed in 2.1209716796875 ms
+start executing report
+report executed in 1.2769699096679688 ms
+start executing report
+report executed in 2.5370121002197266 ms
+start executing report
+report executed in 6.417274475097656 ms
+start executing report
+report executed in 3.1099319458007812 ms
+start executing report
+report executed in 1.0988712310791016 ms
+start executing report
+report executed in 1.9719600677490234 ms
+start executing report
+report executed in 2.046823501586914 ms
+start executing report
+report executed in 1.0139942169189453 ms
+start executing report
+report executed in 1.4660358428955078 ms
+start executing report
+report executed in 2.0132064819335938 ms
+start executing report
+report executed in 1.4309883117675781 ms
+start executing report
+report executed in 2.1719932556152344 ms
+start executing report
+report executed in 1.1441707611083984 ms
+start executing report
+report executed in 1.9159317016601562 ms
+start executing report
+report executed in 1.5490055084228516 ms
+start executing report
+report executed in 1.3229846954345703 ms
+start executing report
+report executed in 2.972841262817383 ms
+start executing report
+report executed in 1.2671947479248047 ms
+start executing report
+report executed in 1.8150806427001953 ms
+start executing report
+report executed in 1.4719963073730469 ms
+start executing report
+report executed in 0.7548332214355469 ms
+start executing report
+report executed in 1.1830329895019531 ms
+start executing report
+report executed in 0.8690357208251953 ms
+start executing report
+report executed in 0.8749961853027344 ms
+start executing report
+report executed in 1.127004623413086 ms
+start executing report
+report executed in 1.09100341796875 ms
+start executing report
+report executed in 0.8370876312255859 ms
+start executing report
+report executed in 0.7579326629638672 ms
+start executing report
+report executed in 0.8287429809570312 ms
+start executing report
+report executed in 1.64794921875 ms
+start executing report
+report executed in 1.3020038604736328 ms
+start executing report
+report executed in 3.944873809814453 ms
+start executing report
+report executed in 3.9038658142089844 ms
+start executing report
+report executed in 5.658864974975586 ms
+start executing report
+report executed in 1.8649101257324219 ms
+start executing report
+report executed in 2.3539066314697266 ms
+start executing report
+report executed in 2.048969268798828 ms
+start executing report
+report executed in 14.78886604309082 ms
+start executing report
+report executed in 1.5587806701660156 ms
+start executing report
+report executed in 1.1758804321289062 ms
+start executing report
+report executed in 0.8177757263183594 ms
+start executing report
+report executed in 1.445770263671875 ms
+start executing report
+report executed in 0.8699893951416016 ms
+start executing report
+report executed in 4.506826400756836 ms
+start executing report
+report executed in 2.302885055541992 ms
+start executing report
+report executed in 3.525257110595703 ms
+start executing report
+report executed in 2.5098323822021484 ms
+start executing report
+report executed in 46.43702507019043 ms
+start executing report
+report executed in 0.8831024169921875 ms
+start executing report
+report executed in 0.8070468902587891 ms
+start executing report
+report executed in 1.0528564453125 ms
+start executing report
+report executed in 0.782012939453125 ms
+start executing report
+report executed in 2.440929412841797 ms
+start executing report
+report executed in 0.9808540344238281 ms
+start executing report
+report executed in 1.1320114135742188 ms
+start executing report
+report executed in 0.9701251983642578 ms
+start executing report
+report executed in 1.1222362518310547 ms
+start executing report
+report executed in 0.8399486541748047 ms
+start executing report
+report executed in 2.2859573364257812 ms
+start executing report
+report executed in 2.0580291748046875 ms
+start executing report
+report executed in 0.8871555328369141 ms
+start executing report
+report executed in 0.8547306060791016 ms
+start executing report
+report executed in 0.9567737579345703 ms
+start executing report
+report executed in 0.7607936859130859 ms
+start executing report
+report executed in 0.8139610290527344 ms
+start executing report
+report executed in 1.6112327575683594 ms
+start executing report
+report executed in 0.8299350738525391 ms
+start executing report
+report executed in 0.8120536804199219 ms
+start executing report
+report executed in 0.8051395416259766 ms
+start executing report
+report executed in 0.8242130279541016 ms
+start executing report
+report executed in 0.8358955383300781 ms
+start executing report
+report executed in 0.8330345153808594 ms
+start executing report
+report executed in 1.2233257293701172 ms
+start executing report
+report executed in 1.476287841796875 ms
+start executing report
+report executed in 0.8320808410644531 ms
+start executing report
+report executed in 0.7960796356201172 ms
+start executing report
+report executed in 0.8997917175292969 ms
+start executing report
+report executed in 0.7939338684082031 ms
+start executing report
+report executed in 0.7612705230712891 ms
+start executing report
+report executed in 0.7779598236083984 ms
+start executing report
+report executed in 0.8940696716308594 ms
+start executing report
+report executed in 0.7717609405517578 ms
+start executing report
+report executed in 0.8280277252197266 ms
+start executing report
+report executed in 0.8111000061035156 ms
+start executing report
+report executed in 1.260995864868164 ms
+start executing report
+report executed in 0.7717609405517578 ms
+start executing report
+report executed in 0.8449554443359375 ms
+start executing report
+report executed in 0.7460117340087891 ms
+start executing report
+report executed in 1.2617111206054688 ms
+start executing report
+report executed in 0.8540153503417969 ms
+start executing report
+report executed in 1.3148784637451172 ms
+start executing report
+report executed in 0.782012939453125 ms
+start executing report
+report executed in 1.1360645294189453 ms
+start executing report
+report executed in 1.1441707611083984 ms
+start executing report
+report executed in 1.0631084442138672 ms
+start executing report
+report executed in 0.7469654083251953 ms
+start executing report
+report executed in 1.1188983917236328 ms
+start executing report
+report executed in 0.7610321044921875 ms
+start executing report
+report executed in 0.7779598236083984 ms
+start executing report
+report executed in 0.7767677307128906 ms
+start executing report
+report executed in 0.7598400115966797 ms
+start executing report
+start executing analysis_specific_department_student
+analysis_specific_department_student executed in 1.6148090362548828 ms
+start executing analysis_specific_department_course
+analysis_specific_department_course executed in 2.2351741790771484 ms
+start executing analysis_specific_department_helper
+analysis_specific_department_helper executed in 42.052268981933594 ms
+start executing analysis_specific_department_volunteer
+未央书院__main__ error
+analysis_specific_department_volunteer executed in 4.223823547363281 ms
+未央书院__main__ error
+report executed in 50.18496513366699 ms
+start executing report
+
+药学院__main__ error
+report executed in 0.02384185791015625 ms
+start executing report
+start executing analysis_specific_department_student
+analysis_specific_department_student executed in 0.6120204925537109 ms
+start executing analysis_specific_department_course
+analysis_specific_department_course executed in 1.251220703125 ms
+start executing analysis_specific_department_helper
+analysis_specific_department_helper executed in 22.86815643310547 ms
+start executing analysis_specific_department_volunteer
+探微书院__main__ error
+analysis_specific_department_volunteer executed in 0.6921291351318359 ms
+探微书院__main__ error
+report executed in 25.484085083007812 ms
+start executing report
+start executing analysis_specific_department_student
+analysis_specific_department_student executed in 0.4086494445800781 ms
+start executing analysis_specific_department_course
+analysis_specific_department_course executed in 0.911712646484375 ms
+start executing analysis_specific_department_helper
+analysis_specific_department_helper executed in 20.39813995361328 ms
+start executing analysis_specific_department_volunteer
+新雅书院__main__ error
+analysis_specific_department_volunteer executed in 1.3568401336669922 ms
+新雅书院__main__ error
+report executed in 23.103952407836914 ms
+start executing report
+start executing analysis_specific_department_student
+analysis_specific_department_student executed in 0.5590915679931641 ms
+start executing analysis_specific_department_course
+analysis_specific_department_course executed in 0.9751319885253906 ms
+start executing analysis_specific_department_helper
+analysis_specific_department_helper executed in 24.634838104248047 ms
+start executing analysis_specific_department_volunteer
+自动化系__main__ error
+analysis_specific_department_volunteer executed in 1.2009143829345703 ms
+自动化系__main__ error
+report executed in 27.402877807617188 ms
+start executing report
+start executing analysis_specific_department_student
+analysis_specific_department_student executed in 0.21195411682128906 ms
+start executing analysis_specific_department_course
+analysis_specific_department_course executed in 0.4436969757080078 ms
+start executing analysis_specific_department_helper
+analysis_specific_department_helper executed in 5.0029754638671875 ms
+start executing analysis_specific_department_volunteer
+物理系__main__ error
+analysis_specific_department_volunteer executed in 3.0031204223632812 ms
+物理系__main__ error
+report executed in 8.685111999511719 ms
+start executing report
+start executing analysis_specific_department_student
+analysis_specific_department_student executed in 0.2999305725097656 ms
+start executing analysis_specific_department_course
+analysis_specific_department_course executed in 0.6411075592041016 ms
+start executing analysis_specific_department_helper
+analysis_specific_department_helper executed in 12.865781784057617 ms
+start executing analysis_specific_department_volunteer
+土木系__main__ error
+analysis_specific_department_volunteer executed in 0.5972385406494141 ms
+土木系__main__ error
+report executed in 14.428853988647461 ms
+start executing report
+start executing analysis_specific_department_student
+analysis_specific_department_student executed in 0.3192424774169922 ms
+start executing analysis_specific_department_course
+analysis_specific_department_course executed in 0.6792545318603516 ms
+start executing analysis_specific_department_helper
+analysis_specific_department_helper executed in 17.35711097717285 ms
+start executing analysis_specific_department_volunteer
+电机系__main__ error
+analysis_specific_department_volunteer executed in 0.38909912109375 ms
+电机系__main__ error
+report executed in 18.768787384033203 ms
+start executing report
+start executing analysis_specific_department_student
+analysis_specific_department_student executed in 0.240325927734375 ms
+start executing analysis_specific_department_course
+analysis_specific_department_course executed in 0.6737709045410156 ms
+start executing analysis_specific_department_helper
+analysis_specific_department_helper executed in 10.710000991821289 ms
+start executing analysis_specific_department_volunteer
+车辆学院__main__ error
+analysis_specific_department_volunteer executed in 0.39124488830566406 ms
+车辆学院__main__ error
+report executed in 12.037038803100586 ms
+start executing report
+start executing analysis_specific_department_student
+analysis_specific_department_student executed in 0.3268718719482422 ms
+start executing analysis_specific_department_course
+analysis_specific_department_course executed in 0.6968975067138672 ms
+start executing analysis_specific_department_helper
+analysis_specific_department_helper executed in 19.145965576171875 ms
+start executing analysis_specific_department_volunteer
+工物系__main__ error
+analysis_specific_department_volunteer executed in 1.8770694732666016 ms
+工物系__main__ error
+report executed in 22.070884704589844 ms
+start executing report
+start executing analysis_specific_department_student
+analysis_specific_department_student executed in 0.6792545318603516 ms
+start executing analysis_specific_department_course
+analysis_specific_department_course executed in 1.0769367218017578 ms
+start executing analysis_specific_department_helper
+analysis_specific_department_helper executed in 22.53890037536621 ms
+start executing analysis_specific_department_volunteer
+经管学院__main__ error
+analysis_specific_department_volunteer executed in 1.0428428649902344 ms
+经管学院__main__ error
+report executed in 25.364160537719727 ms
+start executing report
+start executing analysis_specific_department_student
+analysis_specific_department_student executed in 0.3120899200439453 ms
+start executing analysis_specific_department_course
+analysis_specific_department_course executed in 0.5481243133544922 ms
+start executing analysis_specific_department_helper
+analysis_specific_department_helper executed in 11.802196502685547 ms
+start executing analysis_specific_department_volunteer
+软件学院__main__ error
+analysis_specific_department_volunteer executed in 2.044200897216797 ms
+软件学院__main__ error
+report executed in 14.733076095581055 ms
+start executing report
+
+精仪系__main__ error
+report executed in 0.0057220458984375 ms
+start executing report
+start executing analysis_specific_department_student
+analysis_specific_department_student executed in 0.8387565612792969 ms
+start executing analysis_specific_department_course
+analysis_specific_department_course executed in 1.1911392211914062 ms
+start executing analysis_specific_department_helper
+analysis_specific_department_helper executed in 32.33480453491211 ms
+start executing analysis_specific_department_volunteer
+电子系__main__ error
+analysis_specific_department_volunteer executed in 9.626150131225586 ms
+电子系__main__ error
+report executed in 44.01803016662598 ms
+start executing report
+start executing analysis_specific_department_student
+analysis_specific_department_student executed in 0.5271434783935547 ms
+start executing analysis_specific_department_course
+analysis_specific_department_course executed in 1.4812946319580078 ms
+start executing analysis_specific_department_helper
+analysis_specific_department_helper executed in 21.391868591308594 ms
+start executing analysis_specific_department_volunteer
+机械系__main__ error
+analysis_specific_department_volunteer executed in 2.986907958984375 ms
+机械系__main__ error
+report executed in 26.43585205078125 ms
+start executing report
+start executing analysis_specific_department_student
+analysis_specific_department_student executed in 0.8368492126464844 ms
+start executing analysis_specific_department_course
+analysis_specific_department_course executed in 1.6357898712158203 ms
+start executing analysis_specific_department_helper
+analysis_specific_department_helper executed in 34.92879867553711 ms
+start executing analysis_specific_department_volunteer
+生命学院__main__ error
+analysis_specific_department_volunteer executed in 2.752065658569336 ms
+生命学院__main__ error
+report executed in 40.20094871520996 ms
+start executing report
+start executing analysis_specific_department_student
+analysis_specific_department_student executed in 0.4210472106933594 ms
+start executing analysis_specific_department_course
+analysis_specific_department_course executed in 0.8039474487304688 ms
+start executing analysis_specific_department_helper
+analysis_specific_department_helper executed in 19.575834274291992 ms
+start executing analysis_specific_department_volunteer
+环境学院__main__ error
+analysis_specific_department_volunteer executed in 0.45990943908691406 ms
+环境学院__main__ error
+report executed in 21.302223205566406 ms
+start executing report
+start executing analysis_specific_department_student
+analysis_specific_department_student executed in 0.5748271942138672 ms
+start executing analysis_specific_department_course
+analysis_specific_department_course executed in 1.1148452758789062 ms
+start executing analysis_specific_department_helper
+analysis_specific_department_helper executed in 16.505718231201172 ms
+start executing analysis_specific_department_volunteer
+致理书院__main__ error
+analysis_specific_department_volunteer executed in 1.52587890625 ms
+致理书院__main__ error
+report executed in 19.748926162719727 ms
+start executing report
+start executing analysis_specific_department_student
+analysis_specific_department_student executed in 0.2810955047607422 ms
+start executing analysis_specific_department_course
+analysis_specific_department_course executed in 0.6189346313476562 ms
+start executing analysis_specific_department_helper
+analysis_specific_department_helper executed in 10.241985321044922 ms
+start executing analysis_specific_department_volunteer
+航院__main__ error
+analysis_specific_department_volunteer executed in 3.6401748657226562 ms
+航院__main__ error
+report executed in 14.809846878051758 ms
+start executing report
+start executing analysis_specific_department_student
+analysis_specific_department_student executed in 0.5292892456054688 ms
+start executing analysis_specific_department_course
+analysis_specific_department_course executed in 0.8449554443359375 ms
+start executing analysis_specific_department_helper
+analysis_specific_department_helper executed in 17.493009567260742 ms
+start executing analysis_specific_department_volunteer
+计算机系__main__ error
+analysis_specific_department_volunteer executed in 7.805109024047852 ms
+计算机系__main__ error
+report executed in 26.747941970825195 ms
+start executing report
+start executing analysis_specific_department_student
+analysis_specific_department_student executed in 0.27108192443847656 ms
+start executing analysis_specific_department_course
+analysis_specific_department_course executed in 0.514984130859375 ms
+start executing analysis_specific_department_helper
+analysis_specific_department_helper executed in 7.203817367553711 ms
+start executing analysis_specific_department_volunteer
+材料学院__main__ error
+analysis_specific_department_volunteer executed in 0.9243488311767578 ms
+材料学院__main__ error
+report executed in 8.941888809204102 ms
+start executing report
+
+法学院__main__ error
+report executed in 0.006198883056640625 ms
+start executing report
+start executing analysis_specific_department_student
+analysis_specific_department_student executed in 0.27489662170410156 ms
+start executing analysis_specific_department_course
+analysis_specific_department_course executed in 0.4889965057373047 ms
+start executing analysis_specific_department_helper
+analysis_specific_department_helper executed in 6.587743759155273 ms
+start executing analysis_specific_department_volunteer
+化工系__main__ error
+analysis_specific_department_volunteer executed in 1.0039806365966797 ms
+化工系__main__ error
+report executed in 8.375167846679688 ms
+start executing report
+start executing analysis_specific_department_student
+analysis_specific_department_student executed in 0.31280517578125 ms
+start executing analysis_specific_department_course
+analysis_specific_department_course executed in 0.6210803985595703 ms
+start executing analysis_specific_department_helper
+analysis_specific_department_helper executed in 16.761064529418945 ms
+start executing analysis_specific_department_volunteer
+工业工程系__main__ error
+analysis_specific_department_volunteer executed in 1.9469261169433594 ms
+工业工程系__main__ error
+report executed in 19.67597007751465 ms
+start executing report
+
+社科学院__main__ error
+report executed in 0.008106231689453125 ms
+start executing report
+start executing analysis_specific_department_student
+analysis_specific_department_student executed in 2.810955047607422 ms
+start executing analysis_specific_department_course
+analysis_specific_department_course executed in 0.7579326629638672 ms
+start executing analysis_specific_department_helper
+analysis_specific_department_helper executed in 9.938955307006836 ms
+start executing analysis_specific_department_volunteer
+能动系__main__ error
+analysis_specific_department_volunteer executed in 0.7448196411132812 ms
+能动系__main__ error
+report executed in 14.297723770141602 ms
+start executing report
+
+建筑学院__main__ error
+report executed in 0.0059604644775390625 ms
+start executing report
+start executing analysis_specific_department_student
+analysis_specific_department_student executed in 0.2200603485107422 ms
+start executing analysis_specific_department_course
+analysis_specific_department_course executed in 0.5409717559814453 ms
+start executing analysis_specific_department_helper
+analysis_specific_department_helper executed in 6.297111511230469 ms
+start executing analysis_specific_department_volunteer
+数学系__main__ error
+analysis_specific_department_volunteer executed in 4.724025726318359 ms
+数学系__main__ error
+report executed in 11.80887222290039 ms
+start executing report
+
+外文系__main__ error
+report executed in 0.0059604644775390625 ms
+start executing report
+start executing analysis_specific_department_student
+analysis_specific_department_student executed in 0.3058910369873047 ms
+start executing analysis_specific_department_course
+analysis_specific_department_course executed in 0.6139278411865234 ms
+start executing analysis_specific_department_helper
+analysis_specific_department_helper executed in 15.996932983398438 ms
+start executing analysis_specific_department_volunteer
+医学院__main__ error
+analysis_specific_department_volunteer executed in 1.0409355163574219 ms
+医学院__main__ error
+report executed in 17.98391342163086 ms
+start executing report
+
+行健书院__main__ error
+report executed in 0.0059604644775390625 ms
+start executing report
+start executing analysis_specific_department_student
+analysis_specific_department_student executed in 0.21195411682128906 ms
+start executing analysis_specific_department_course
+analysis_specific_department_course executed in 0.4169940948486328 ms
+start executing analysis_specific_department_helper
+analysis_specific_department_helper executed in 3.7958621978759766 ms
+start executing analysis_specific_department_volunteer
+化学系__main__ error
+analysis_specific_department_volunteer executed in 1.7671585083007812 ms
+化学系__main__ error
+report executed in 6.215810775756836 ms
+start executing report
+start executing analysis_specific_department_student
+analysis_specific_department_student executed in 0.3139972686767578 ms
+start executing analysis_specific_department_course
+analysis_specific_department_course executed in 0.5998611450195312 ms
+start executing analysis_specific_department_helper
+analysis_specific_department_helper executed in 9.107828140258789 ms
+start executing analysis_specific_department_volunteer
+水利系__main__ error
+analysis_specific_department_volunteer executed in 0.8828639984130859 ms
+水利系__main__ error
+report executed in 10.944128036499023 ms
+start executing report
+
+日新书院__main__ error
+report executed in 0.006198883056640625 ms
+start executing report
+start executing analysis_specific_department_student
+analysis_specific_department_student executed in 0.2071857452392578 ms
+start executing analysis_specific_department_course
+analysis_specific_department_course executed in 0.5183219909667969 ms
+start executing analysis_specific_department_helper
+analysis_specific_department_helper executed in 2.5451183319091797 ms
+start executing analysis_specific_department_volunteer
+交叉信息院__main__ error
+analysis_specific_department_volunteer executed in 1.4200210571289062 ms
+交叉信息院__main__ error
+report executed in 4.7359466552734375 ms
+start executing report
+
+集成电路学院__main__ error
+report executed in 0.0059604644775390625 ms
+start executing report
+
+清华大学深圳国际研究__main__ error
+report executed in 0.0021457672119140625 ms
+start executing report
+
+新闻学院__main__ error
+report executed in 0.0021457672119140625 ms
+start executing report
+
+美术学院__main__ error
+report executed in 0.00286102294921875 ms

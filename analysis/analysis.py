@@ -2,6 +2,7 @@ from tqdm import tqdm
 import typing
 from collections import Counter, OrderedDict
 from IPython import embed
+import csv
 import functools
 import time
 import json
@@ -9,8 +10,6 @@ from pathlib import Path
 import os
 
 order_json = "order_.json"
-department_list_json = "department_list.json"
-
 
 def metric(fn):
     """装饰器显示函数运行的情况和运行时长"""
@@ -29,6 +28,8 @@ def metric(fn):
 
 @metric
 def get_department_list():
+    """以列表为返回值，获得所有的院系"""
+
     json_order_list = []
     with open(order_json, "r", encoding="utf-8", errors="ignore") as f:
         for line in f.readlines():
@@ -135,6 +136,7 @@ class Student:
     @metric
     def report(self):
         """"统计每个学生提出的问题所属的学科，提问的总时间与总次数"""
+        """将需要保存的 dict 返回给主函数，用于写入所有用户的 CSV"""
 
         try:
             assert self.order_list
@@ -155,9 +157,13 @@ class Student:
 
             with open(f"{path}/{self.name}.json", "w+", encoding="utf-8", errors="ignore") as f:
                 json.dump(store_dict, f, ensure_ascii=False, indent=2)
+
+            return store_dict
+
         except Exception as e:
             print(e)
             print(self.name + f"{__name__} error")
+
 
 
 def compare_student(student):
@@ -227,6 +233,8 @@ class Volunteer:
 
     @metric
     def report(self):
+        """将需要保存的 dict 返回给主函数，用于写入所有志愿者的 CSV"""
+
         try:
             assert self.order_list
             self.evaluate_average_satisfaction()
@@ -247,6 +255,8 @@ class Volunteer:
 
             with open(f"{path}/{self.name}.json", "w+", encoding="utf-8", errors="ignore") as f:
                 json.dump(store_dict, f, ensure_ascii=False, indent=2)
+
+            return store_dict
 
         except Exception as e:
             print(e)
@@ -320,6 +330,7 @@ class Department:
     @metric
     def analysis_specific_department_course(self):
         """学生问过的问题次数，集中的学科"""
+        """返回 store_dict 用以生成所有院系的课程分析"""
 
         try:
             assert self.order_list
@@ -334,12 +345,15 @@ class Department:
             store_dict["total_order_count"] = self.total_order_count
             store_dict["all_course"] = course_list
 
-
             path = Path.cwd() / 'result_department_course'
             if not path.is_dir():
                 os.makedirs(path)
+
             with open(f"{path}/{self.name}.json", "w+", encoding="utf-8", errors="ignore") as f:
                 json.dump(store_dict, f, ensure_ascii=False, indent=2)
+
+            return store_dict
+
         except Exception as e:
             print(e)
             print(self.name + f"{__name__} error")
@@ -347,6 +361,7 @@ class Department:
     @metric
     def analysis_specific_department_student(self):
         """统计该系所有学生的问答情况"""
+        """返回 store_dict 用以生成所有院系的学生分析"""
 
         try:
             store_dict = OrderedDict()
@@ -377,6 +392,7 @@ class Department:
     @metric
     def analysis_specific_department_helper(self):
         """帮助该系的志愿者"""
+        """返回 store_dict 用以生成所有院系的 helper 分析"""
 
         try:
             assert self.helper_list
@@ -399,6 +415,7 @@ class Department:
 
             with open(f"{path}/{self.name}.json", "w+", encoding="utf-8", errors="ignore") as f:
                 json.dump(store_dict, f, ensure_ascii=False, indent=2)
+                return store_dict
 
         except Exception as e:
             print(e)
@@ -407,6 +424,7 @@ class Department:
     @metric
     def analysis_specific_department_volunteer(self):
         """该系的志愿者"""
+        """返回 store_dict 用以生成所有院系的志愿者分析"""
 
         try:
             assert self.volunteer_list
@@ -430,6 +448,8 @@ class Department:
             with open(f"{path}/{self.name}.json", "w+", encoding="utf-8", errors="ignore") as f:
                 json.dump(store_dict, f, ensure_ascii=False, indent=2)
 
+            return store_dict
+
         except Exception as e:
             print(e)
         print(self.name + f"{__name__} error")
@@ -445,11 +465,25 @@ class Department:
             self.set_total_helper_count()
             assert self.volunteer_list
             self.set_total_volunteer_count()
+            store_dict = {}
 
-            self.analysis_specific_department_student()
-            self.analysis_specific_department_course()
-            self.analysis_specific_department_helper()
-            self.analysis_specific_department_volunteer()
+            store_dict["student"] = self.analysis_specific_department_student()
+            store_dict["course"] = self.analysis_specific_department_course()
+            store_dict["helper"] = self.analysis_specific_department_helper()
+            store_dict["volunteer"] = self.analysis_specific_department_volunteer()
+
+            path = Path.cwd() / 'department_CSV'
+            if not path.is_dir():
+                os.makedirs(path)
+
+            name_list = []
+            for key in store_dict:
+                name_list.append(key)
+
+            with open(f"{path}/{self.name}.csv", "w+", encoding="utf-8", errors="ignore") as f:
+                writer = csv.DictWriter(f, fieldnames=name_list)
+                writer.writeheader()
+                writer.writerow(store_dict)
 
         except Exception as e:
             print(e)
@@ -571,14 +605,38 @@ def initialize():
         print(e)
 
 
+def write_csv(store_list, file_name):
+    """传入一个 list of dict，然后写入 CSV 文件"""
+
+    name_list = []
+    for key in store_list[0]:
+        name_list.append(key)
+
+    path = Path.cwd() / 'student_volunteer_CSV'
+    if not path.is_dir():
+        os.makedirs(path)
+
+    with open(f"{path}/{file_name}.csv", "w+", encoding="utf-8", errors="ignore") as f:
+        writer = csv.DictWriter(f, fieldnames=name_list)
+        writer.writeheader()
+        for each in store_list:
+            writer.writerow(each)
+
+
 if __name__ == '__main__':
     """先读取所有的order，加入到 student 和 volunteer 的 order list 里面"""
     """遍历所有的 student helper 和 volunteer，加入到 department 里面"""
 
     student_list, volunteer_list, department_list = initialize()
+    store_student = []
+    store_volunteer = []
+
     for each in student_list:
-        each.report()
+        store_student.append(each.report())
     for each in volunteer_list:
-        each.report()
+        store_volunteer.append(each.report())
     for each in department_list:
         each.report()
+
+    write_csv(store_student, "student")
+    write_csv(store_volunteer, "volunteer")

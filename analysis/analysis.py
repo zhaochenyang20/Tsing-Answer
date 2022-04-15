@@ -9,7 +9,9 @@ import json
 from pathlib import Path
 import os
 
-order_json = "order_.json"
+
+order_json = "./order.json"
+
 
 def metric(fn):
     """装饰器显示函数运行的情况和运行时长"""
@@ -445,8 +447,6 @@ class Department:
             if not path.is_dir():
                 os.makedirs(path)
 
-            with open(f"{path}/{self.name}.json", "w+", encoding="utf-8", errors="ignore") as f:
-                json.dump(store_dict, f, ensure_ascii=False, indent=2)
 
             return store_dict
 
@@ -506,7 +506,6 @@ def initialize():
     department_student_dic = {}
     department_volunteer_dic = {}
     department_helper_dic = {}
-
     department_name_list = get_department_list()
 
     for each in department_name_list:
@@ -524,8 +523,17 @@ def initialize():
                 dic = json.loads(line)
                 json_order_list.append(dic)
 
+
         try:
             for each in tqdm(json_order_list):
+            # # ! 这一段是单独筛选了零字班和九字班的学生订单
+                try:
+                    studentEnrollment = int(str(each["actionRec"]["pAuthenData"]["studentID"])[0:4])
+                    if (studentEnrollment != 2020) and ( studentEnrollment != 2019):
+                        continue
+                except Exception as e:
+                        continue
+            #     # ! 这一段是单独筛选了零字班和九字班的学生订单
                 order = Order(each)
                 order_list.append(order)
                 try:
@@ -558,14 +566,14 @@ def initialize():
                         department_volunteer_dic[f"{volunteer_department}"][f"{volunteer_name}"].append_order(order)
                     else:
                         department_volunteer_dic[f"{volunteer_department}"][f"{volunteer_name}"] = Volunteer(volunteer_name,
-                                                                                                             volunteer_department)
+                                                                                                            volunteer_department)
                         department_volunteer_dic[f"{volunteer_department}"][f"{volunteer_name}"].append_order(order)
 
                     if f"{volunteer_name}" in department_helper_dic[f"{client_department}"]:
                         department_helper_dic[f"{client_department}"][f"{volunteer_name}"].append_order(order)
                     else:
                         department_helper_dic[f"{client_department}"][f"{volunteer_name}"] = Volunteer(volunteer_name,
-                                                                                                       volunteer_department)
+                                                                                                    volunteer_department)
                         department_helper_dic[f"{client_department}"][f"{volunteer_name}"].append_order(order)
 
                     if f"{volunteer_name}" in volunteer_dic:
@@ -575,6 +583,7 @@ def initialize():
                         volunteer_dic[f"{volunteer_name}"].append_order(order)
 
                 except Exception as e:
+                    print(e)
                     pass
 
         except Exception as e:
@@ -637,6 +646,5 @@ if __name__ == '__main__':
         store_volunteer.append(each.report())
     for each in department_list:
         each.report()
-
     write_csv(store_student, "student")
     write_csv(store_volunteer, "volunteer")

@@ -489,7 +489,44 @@ class Department:
             print(e)
         print(self.name + f"{__name__} error")
 
+def select_order_this_semister():
+    """选择本学期的订单"""
+    """返回 order_list"""
+    try:
+        order_list = []
+        json_order_list = []
+        total_count = 0
+        count = 0
+        with open(order_json, "r", encoding="utf-8", errors="ignore") as f:
+            for line in f.readlines():
+                dic = json.loads(line)
+                json_order_list.append(dic)
+        try:
+            for index, each in tqdm(enumerate(json_order_list)):
+            #! 这一段单独筛选了 2022 年 2 月 21 日到 6 月 12 日的订单
 
+                try:
+                    time = each["actionRec"]["ptime"]
+                    year = time[:4]
+                    month = time[5:7]
+                    day = time[8:10]
+                    date = int(year + month + day)
+                    if date < 20220221 or date > 20220612:
+                        print(date)
+                        count += 1
+                        continue
+                except Exception as e:
+                    continue
+                order_list.append(each)
+            total_count = len(json_order_list) - count
+            with open("./result_order_this_semister.json", "w+", encoding="utf-8", errors="ignore") as f:
+                json.dump(order_list, f, ensure_ascii=False, indent=2)
+            print(total_count)
+            print(count)
+        except Exception as e:
+            print(e)
+    except Exception as e:
+        print(e)
 
 def initialize():
     """"返回 student list，volunteer list， department list"""
@@ -527,13 +564,29 @@ def initialize():
         try:
             for each in tqdm(json_order_list):
             # # ! 这一段是单独筛选了零字班和九字班的学生订单
+                # try:
+                #     embed()
+                #     studentEnrollment = int(str(each["actionRec"]["pAuthenData"]["studentID"])[0:4])
+                #     if (studentEnrollment != 2020) and ( studentEnrollment != 2019):
+                #         continue
+                # except Exception as e:
+                #         continue
+            #     # ! 这一段是单独筛选了零字班和九字班的学生订单
+
+            #! 这一段单独筛选了 2022 年 2 月 21 日到 6 月 12 日的订单
+
                 try:
-                    studentEnrollment = int(str(each["actionRec"]["pAuthenData"]["studentID"])[0:4])
-                    if (studentEnrollment != 2020) and ( studentEnrollment != 2019):
+                    time = each["actionRec"]["ptime"]
+                    year = time[:4]
+                    month = time[5:7]
+                    day = time[8:10]
+                    date = int(year + month + day)
+                    if date < 20210221 or date > 20200612:
                         continue
                 except Exception as e:
-                        continue
-            #     # ! 这一段是单独筛选了零字班和九字班的学生订单
+                    continue
+
+            #! 这一段单独筛选了 2022 年 2 月 21 日到 6 月 12 日的订单
                 order = Order(each)
                 order_list.append(order)
                 try:
@@ -636,15 +689,16 @@ if __name__ == '__main__':
     """先读取所有的order，加入到 student 和 volunteer 的 order list 里面"""
     """遍历所有的 student helper 和 volunteer，加入到 department 里面"""
 
-    student_list, volunteer_list, department_list = initialize()
-    store_student = []
-    store_volunteer = []
+    # student_list, volunteer_list, department_list = initialize()
+    # store_student = []
+    # store_volunteer = []
 
-    for each in student_list:
-        store_student.append(each.report())
-    for each in volunteer_list:
-        store_volunteer.append(each.report())
-    for each in department_list:
-        each.report()
-    write_csv(store_student, "student")
-    write_csv(store_volunteer, "volunteer")
+    # for each in student_list:
+    #     store_student.append(each.report())
+    # for each in volunteer_list:
+    #     store_volunteer.append(each.report())
+    # for each in department_list:
+    #     each.report()
+    # write_csv(store_student, "student")
+    # write_csv(store_volunteer, "volunteer")
+    select_order_this_semister()

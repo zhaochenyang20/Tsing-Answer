@@ -9,7 +9,9 @@ import json
 from pathlib import Path
 import os
 
-order_json = "order_.json"
+
+order_json = "./order.json"
+
 
 def metric(fn):
     """装饰器显示函数运行的情况和运行时长"""
@@ -445,8 +447,6 @@ class Department:
             if not path.is_dir():
                 os.makedirs(path)
 
-            with open(f"{path}/{self.name}.json", "w+", encoding="utf-8", errors="ignore") as f:
-                json.dump(store_dict, f, ensure_ascii=False, indent=2)
 
             return store_dict
 
@@ -489,7 +489,72 @@ class Department:
             print(e)
         print(self.name + f"{__name__} error")
 
+def select_order_this_semister():
+    """选择本学期的订单"""
+    """返回 order_list"""
+    try:
+        order_list = []
+        json_order_list = []
+        total_count = 0
+        count = 0
+        with open(order_json, "r", encoding="utf-8", errors="ignore") as f:
+            for line in f.readlines():
+                dic = json.loads(line)
+                json_order_list.append(dic)
+        try:
+            for index, each in tqdm(enumerate(json_order_list)):
+            #! 这一段单独筛选了 2022 年 2 月 21 日到 6 月 12 日的订单
 
+                try:
+                    time = each["actionRec"]["ptime"]
+                    year = time[:4]
+                    month = time[5:7]
+                    day = time[8:10]
+                    date = int(year + month + day)
+                    if date < 20220221 or date > 20220612:
+                        print(date)
+                        count += 1
+                        continue
+                except Exception as e:
+                    continue
+                order_list.append(each)
+            total_count = len(json_order_list) - count
+            with open("./result_order_this_semister.json", "w+", encoding="utf-8", errors="ignore") as f:
+                json.dump(order_list, f, ensure_ascii=False, indent=2)
+            print(total_count)
+            print(count)
+        except Exception as e:
+            print(e)
+    except Exception as e:
+        print(e)
+
+def select_order_personally():
+    """选择一个人的订单"""
+    """返回 order_list"""
+    selector = "赵晨阳"
+    try:
+        order_list = []
+        json_order_list = []
+        with open(order_json, "r", encoding="utf-8", errors="ignore") as f:
+            for line in f.readlines():
+                dic = json.loads(line)
+                json_order_list.append(dic)
+        try:
+            for index, each in tqdm(enumerate(json_order_list)):
+            #! 这一段单独筛选了某个人的订单
+                try:
+                    name = each["actionRec"]["pAuthenData"]["realName"]
+                    if name == selector:
+                        order_list.append(each)
+                except Exception as e:
+                    continue
+            with open(f"./{selector}.json", "w+", encoding="utf-8", errors="ignore") as f:
+                json.dump(order_list, f, ensure_ascii=False, indent=2)
+            embed()
+        except Exception as e:
+            print(e)
+    except Exception as e:
+        print(e)
 
 def initialize():
     """"返回 student list，volunteer list， department list"""
@@ -506,7 +571,6 @@ def initialize():
     department_student_dic = {}
     department_volunteer_dic = {}
     department_helper_dic = {}
-
     department_name_list = get_department_list()
 
     for each in department_name_list:
@@ -524,8 +588,33 @@ def initialize():
                 dic = json.loads(line)
                 json_order_list.append(dic)
 
+
         try:
             for each in tqdm(json_order_list):
+            # # ! 这一段是单独筛选了零字班和九字班的学生订单
+                # try:
+                #     embed()
+                #     studentEnrollment = int(str(each["actionRec"]["pAuthenData"]["studentID"])[0:4])
+                #     if (studentEnrollment != 2020) and ( studentEnrollment != 2019):
+                #         continue
+                # except Exception as e:
+                #         continue
+            #     # ! 这一段是单独筛选了零字班和九字班的学生订单
+
+            #! 这一段单独筛选了 2022 年 2 月 21 日到 6 月 12 日的订单
+
+                try:
+                    time = each["actionRec"]["ptime"]
+                    year = time[:4]
+                    month = time[5:7]
+                    day = time[8:10]
+                    date = int(year + month + day)
+                    if date < 20210221 or date > 20200612:
+                        continue
+                except Exception as e:
+                    continue
+
+            #! 这一段单独筛选了 2022 年 2 月 21 日到 6 月 12 日的订单
                 order = Order(each)
                 order_list.append(order)
                 try:
@@ -558,14 +647,14 @@ def initialize():
                         department_volunteer_dic[f"{volunteer_department}"][f"{volunteer_name}"].append_order(order)
                     else:
                         department_volunteer_dic[f"{volunteer_department}"][f"{volunteer_name}"] = Volunteer(volunteer_name,
-                                                                                                             volunteer_department)
+                                                                                                            volunteer_department)
                         department_volunteer_dic[f"{volunteer_department}"][f"{volunteer_name}"].append_order(order)
 
                     if f"{volunteer_name}" in department_helper_dic[f"{client_department}"]:
                         department_helper_dic[f"{client_department}"][f"{volunteer_name}"].append_order(order)
                     else:
                         department_helper_dic[f"{client_department}"][f"{volunteer_name}"] = Volunteer(volunteer_name,
-                                                                                                       volunteer_department)
+                                                                                                    volunteer_department)
                         department_helper_dic[f"{client_department}"][f"{volunteer_name}"].append_order(order)
 
                     if f"{volunteer_name}" in volunteer_dic:
@@ -575,6 +664,7 @@ def initialize():
                         volunteer_dic[f"{volunteer_name}"].append_order(order)
 
                 except Exception as e:
+                    print(e)
                     pass
 
         except Exception as e:
@@ -627,16 +717,17 @@ if __name__ == '__main__':
     """先读取所有的order，加入到 student 和 volunteer 的 order list 里面"""
     """遍历所有的 student helper 和 volunteer，加入到 department 里面"""
 
-    student_list, volunteer_list, department_list = initialize()
-    store_student = []
-    store_volunteer = []
+    # student_list, volunteer_list, department_list = initialize()
+    # store_student = []
+    # store_volunteer = []
 
-    for each in student_list:
-        store_student.append(each.report())
-    for each in volunteer_list:
-        store_volunteer.append(each.report())
-    for each in department_list:
-        each.report()
-
-    write_csv(store_student, "student")
-    write_csv(store_volunteer, "volunteer")
+    # for each in student_list:
+    #     store_student.append(each.report())
+    # for each in volunteer_list:
+    #     store_volunteer.append(each.report())
+    # for each in department_list:
+    #     each.report()
+    # write_csv(store_student, "student")
+    # write_csv(store_volunteer, "volunteer")
+    # select_order_this_semister()
+    select_order_personally()

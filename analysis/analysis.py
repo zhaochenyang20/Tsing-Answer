@@ -528,6 +528,34 @@ def select_order_this_semister():
     except Exception as e:
         print(e)
 
+def select_order_personally():
+    """选择一个人的订单"""
+    """返回 order_list"""
+    selector = "赵晨阳"
+    try:
+        order_list = []
+        json_order_list = []
+        with open(order_json, "r", encoding="utf-8", errors="ignore") as f:
+            for line in f.readlines():
+                dic = json.loads(line)
+                json_order_list.append(dic)
+        try:
+            for index, each in tqdm(enumerate(json_order_list)):
+            #! 这一段单独筛选了某个人的订单
+                try:
+                    name = each["actionRec"]["pAuthenData"]["realName"]
+                    if name == selector:
+                        order_list.append(each)
+                except Exception as e:
+                    continue
+            with open(f"./{selector}.json", "w+", encoding="utf-8", errors="ignore") as f:
+                json.dump(order_list, f, ensure_ascii=False, indent=2)
+            embed()
+        except Exception as e:
+            print(e)
+    except Exception as e:
+        print(e)
+
 def initialize():
     """"返回 student list，volunteer list， department list"""
     """这几个 department dict 都是二级词典，一级的 key 为院系，二级的 key 为相应列表项"""
@@ -701,4 +729,5 @@ if __name__ == '__main__':
     #     each.report()
     # write_csv(store_student, "student")
     # write_csv(store_volunteer, "volunteer")
-    select_order_this_semister()
+    # select_order_this_semister()
+    select_order_personally()

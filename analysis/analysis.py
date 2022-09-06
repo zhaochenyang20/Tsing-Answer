@@ -489,8 +489,11 @@ class Department:
             print(e)
         print(self.name + f"{__name__} error")
 
-def select_order_this_semister():
+def select_order_during_(date_start: int, date_end: int):
     """选择本学期的订单"""
+    """
+    注意：这里的 date_start 和 date_end 是 int 类型，而不是 datetime 类型，例如 20200904
+    """
     """返回 order_list"""
     try:
         order_list = []
@@ -511,7 +514,7 @@ def select_order_this_semister():
                     month = time[5:7]
                     day = time[8:10]
                     date = int(year + month + day)
-                    if date < 20220221 or date > 20220612:
+                    if date < date_start or date > date_end:
                         print(date)
                         count += 1
                         continue
@@ -519,7 +522,7 @@ def select_order_this_semister():
                     continue
                 order_list.append(each)
             total_count = len(json_order_list) - count
-            with open("./result_order_this_semister.json", "w+", encoding="utf-8", errors="ignore") as f:
+            with open(f"./result_order_during_{date_start}_{date_end}.json", "w+", encoding="utf-8", errors="ignore") as f:
                 json.dump(order_list, f, ensure_ascii=False, indent=2)
             print(total_count)
             print(count)
@@ -729,5 +732,5 @@ if __name__ == '__main__':
     #     each.report()
     # write_csv(store_student, "student")
     # write_csv(store_volunteer, "volunteer")
-    # select_order_this_semister()
-    select_order_personally()
+    select_order_during_(20220613, 20220829)
+    # select_order_personally()

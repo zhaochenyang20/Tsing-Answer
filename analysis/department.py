@@ -1,4 +1,3 @@
-from tqdm import tqdm
 from collections import Counter, OrderedDict
 import csv
 import json

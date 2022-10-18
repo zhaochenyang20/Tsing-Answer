@@ -143,7 +143,6 @@ def initialize(json_file="./order.json"):
                     continue
 
         except Exception as e:
-                # print(e)
                 pass
 
         for key in student_dic:
@@ -168,7 +167,6 @@ def initialize(json_file="./order.json"):
         return student_list, volunteer_list, department_list
 
     except Exception as e:
-        # print(e)
         pass
 
 def compare_student(student):
@@ -200,7 +198,6 @@ def select_order_personally(student_name, json_order_list, write_down=True):
             except Exception as e:
                 continue
     except Exception as e:
-        # print(e)
         pass
     if write_down:
             with open(f"./{student_name}.json", "w+", encoding="utf-8", errors="ignore") as f:
@@ -219,9 +216,9 @@ def select_order_during_(date_start: int, date_end: int, json_order_list, writed
             for _, each in enumerate(json_order_list):
                 try:
                     time = each["actionRec"]["ptime"]
-                    year = time[:4]
-                    month = time[5:7]
-                    day = time[8:10]
+                    year = time[: 4]
+                    month = time[5: 7]
+                    day = time[8: 10]
                     date = int(year + month + day)
                     if date <= date_start or date >= date_end:
                         continue
@@ -233,32 +230,8 @@ def select_order_during_(date_start: int, date_end: int, json_order_list, writed
                     json.dump(order_list, f, ensure_ascii=False, indent=2)
             return order_list
         except Exception as e:
-            # print(e)
             pass
     except Exception as e:
-        pass
-
-def select_order_during_(date_start: int, date_end: int, json_order_list, writedown=False):
-    order_list = []
-    try:
-        for _, each in enumerate(json_order_list):
-            try:
-                time = each["actionRec"]["ptime"]
-                year = time[: 4]
-                month = time[5: 7]
-                day = time[8: 10]
-                date = int(year + month + day)
-                if date < date_start or date >= date_end:
-                    continue
-            except Exception as e:
-                continue
-            order_list.append(each)
-        if writedown:
-            with open(f"./result_order_during_{date_start}_{date_end}.json", "w+", encoding="utf-8", errors="ignore") as f:
-                json.dump(order_list, f, ensure_ascii=False, indent=2)
-        return order_list
-    except Exception as e:
-        # print(e)
         pass
 
 def select_order_for_student_enrollment(enrollment_start, enrollment_end, json_order_list):

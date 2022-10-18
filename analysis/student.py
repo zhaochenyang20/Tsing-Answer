@@ -44,9 +44,6 @@ class Student:
             total_time = 0
             for each in self.order_list:
                 try:
-                    # from IPython import embed
-                    # embed()
-                    print(each.feedback_dic["period"])
                     if each.feedback_dic["period"] == "realName":
                         from IPython import embed
                         embed.embed()

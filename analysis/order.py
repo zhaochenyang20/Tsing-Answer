@@ -15,15 +15,10 @@ class Order:
             self.polishCount = int(order_dic["actionRec"]["polishCount"])
         except:
             self.polishCount = 0
-        try:
-            self.atime = order_dic["actionRec"]["atime"] if "atime" in order_dic["actionRec"].keys() else 0
-            self.ftime = order_dic["actionRec"]["ftime"] if "ftime" in order_dic["actionRec"].keys() else 0
-            self.auid = order_dic["actionRec"]["auid"] if "auid" in order_dic["actionRec"].keys() else 0
-            self.feedback_dic = order_dic["feedback"] if "feedback" in order_dic.keys() else {}
-            self.volunteer_dic = order_dic["actionRec"]["aAuthenData"] if "aAuthenData" in order_dic["actionRec"].keys() else {}
-            self.client_dic = order_dic["actionRec"]["pAuthenData"]
-            print(self.feedback_dic)
-        except Exception as e:
-            from IPython import embed
-            embed()
+        self.atime = order_dic["actionRec"]["atime"] if "atime" in order_dic["actionRec"].keys() else 0
+        self.ftime = order_dic["actionRec"]["ftime"] if "ftime" in order_dic["actionRec"].keys() else 0
+        self.auid = order_dic["actionRec"]["auid"] if "auid" in order_dic["actionRec"].keys() else 0
+        self.feedback_dic = order_dic["feedback"] if "feedback" in order_dic.keys() else {}
+        self.volunteer_dic = order_dic["actionRec"]["aAuthenData"] if "aAuthenData" in order_dic["actionRec"].keys() else {}
+        self.client_dic = order_dic["actionRec"]["pAuthenData"]
         """authentication, certificateState, department, realName, school, studentID"""

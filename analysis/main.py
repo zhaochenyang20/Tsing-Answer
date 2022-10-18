@@ -49,10 +49,4 @@ if __name__ == '__main__':
     """遍历所有的 student helper 和 volunteer，加入到 department 里面"""
 
     student_list, volunteer_list, department_list = initialize()
-    # for each in student_list:
-    #     for every in each.order_list:
-    #         try:
-    #             print(every.feedback_dic["period"])
-    #         except:
-    #             print(1)
     write_student_and_volunteer_json(student_list, volunteer_list)

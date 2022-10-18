@@ -10,22 +10,7 @@ from pathlib import Path
 import os
 
 
-order_json = "./order.json"
-
-
-def metric(fn):
-    """装饰器显示函数运行的情况和运行时长"""
-
-    @functools.wraps(fn)
-    def wrapper(*args, **kw):
-        print('start executing %s' % (fn.__name__))
-        start_time = time.time()
-        result = fn(*args, **kw)
-        end_time = time.time()
-        t = 1000 * (end_time - start_time)
-        print('%s executed in %s ms' % (fn.__name__, t))
-        return result
-    return wrapper
+order_json = "./result_order_during_20220613_20220829.json"
 
 
 @metric
@@ -720,17 +705,17 @@ if __name__ == '__main__':
     """先读取所有的order，加入到 student 和 volunteer 的 order list 里面"""
     """遍历所有的 student helper 和 volunteer，加入到 department 里面"""
 
-    # student_list, volunteer_list, department_list = initialize()
-    # store_student = []
-    # store_volunteer = []
+    student_list, volunteer_list, department_list = initialize()
+    store_student = []
+    store_volunteer = []
 
-    # for each in student_list:
-    #     store_student.append(each.report())
-    # for each in volunteer_list:
-    #     store_volunteer.append(each.report())
-    # for each in department_list:
-    #     each.report()
-    # write_csv(store_student, "student")
-    # write_csv(store_volunteer, "volunteer")
-    select_order_during_(20220613, 20220829)
+    for each in student_list:
+        store_student.append(each.report())
+    for each in volunteer_list:
+        store_volunteer.append(each.report())
+    for each in department_list:
+        each.report()
+    write_csv(store_student, "student")
+    write_csv(store_volunteer, "volunteer")
+    # select_order_during_(20220613, 20220829)
     # select_order_personally()

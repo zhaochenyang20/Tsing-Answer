@@ -6,10 +6,16 @@
 
 # 数据来源
 
-数据需要每次定期从答疑坊小程序的数据库中导出，导出 `Order` 对象，其对应的字段如下：
+数据需要每次定期从答疑坊小程序的数据库中导出，导出 `Order` 对象为 `./order.json`，其对应的字段如下：
 
 ```sql
 subjectID,courseID,abstract,state,online,actionRec.atime,actionRec.ptime,actionRec.ftime,feedback.period,feedback.suggestion
+```
+
+导出 `UserInfo` 为 `user.json`:
+
+```
+role,volunteerData,authenData
 ```
 
 **请不要将导出的数据上传至 github，以免造成数据泄漏。**
@@ -25,6 +31,8 @@ json_order_list = select_order_during_(20220613, 20220912, json_order_list)
 ```
 
 而后，在命令行运行 `python3 main.py` 即可。
+
+`./utils.py` 下的 `get_volunteer_salary_rank` 可以拿到志愿者等级。
 
 # 文件说明
 

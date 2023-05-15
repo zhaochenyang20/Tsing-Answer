@@ -262,3 +262,24 @@ def slect_all_order(json_file="./order.json"):
             dic = json.loads(line)
             json_order_list.append(dic)
     return json_order_list
+
+def get_volunteer_salary_rank():
+    users = slect_all_order("./user.json")
+    salary_dict = {
+        "特级": 45,
+        "一级": 35,
+        "二级": 30,
+        "三级": 25,
+    }
+    volunteers = [each for each in users if each["role"] == '志愿者']
+    volunteer_dic = {}
+    for each in volunteers:
+        try:
+            name = each["authenData"]["realName"]
+            level = each["volunteerData"]["volunteerLevel"]
+            volunteer_dic[name] = salary_dict[level]
+        except:
+            pass
+    import json
+    json.dump(volunteer_dic, open("./volunteer_salary.json", "w", encoding="utf-8"), ensure_ascii=False)
+    test = json.load(open("./volunteer_salary.json", "r", encoding="utf-8"))
